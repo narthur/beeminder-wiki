@@ -6,4 +6,8 @@
 
 [Beeminder Forum](https://forum.beeminder.com/)
 
+## Integrations
+
+[RescueTime integration](https://www.beeminder.com/rescuetime) - "Be even more productive with Beeminder and RescueTime"
+
 [TaskRatchet](https://taskratchet.com/) - Like Beeminder but for one-off tasks. Integrates with Beeminder.
