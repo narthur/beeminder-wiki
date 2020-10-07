@@ -2,6 +2,7 @@
 
 ## Pages
 
+[Contributing](contributing.md)
 [Integrations](integrations.md)
 
 ## Links
