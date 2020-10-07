@@ -59,10 +59,9 @@ This was originally a [forum thread](https://forum.beeminder.com/t/beeminder-int
 
 - Beeminder - although not an integration per se it can be used to create those; see http://api.beeminder.com for ideas 
   and frameworks that use this, see @philip's 
-  [API Coding Resources List ](https://forum.beeminder.com/t/api-coding-resources-list/2947)
+  [API Coding Resources List](https://forum.beeminder.com/t/api-coding-resources-list/2947)
 - IFTTT - [official](https://www.beeminder.com/new)
-- [Integromat](https://www.integromat.com/en/) - you need to talk to the Beeminder API since they do not habe an 
-  official integration (yet?)
+- [Integromat](https://www.integromat.com/en/) - [the integration](https://www.integromat.com/en/integrations/beeminder)
 - huginn - [found at Github](https://github.com/huginn/huginn)
 - Tasker (Android) - see this [Blog post](https://blog.beeminder.com/beedroid/), for recipes check out 
   [this thread](https://forum.beeminder.com/t/tasker-recipes/5367/5)
