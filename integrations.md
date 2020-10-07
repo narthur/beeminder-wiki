@@ -164,7 +164,7 @@ P. S.: Searching for the topics [beeminder](https://github.com/topics/beeminder)
 - Skritter - Hours learning Chinese/Japanese - [official](https://www.beeminder.com/new)
 - WaniKani - see [this thread](https://forum.beeminder.com/t/wanikani-integration/4403) by @bluetulip
 
- ### Religion and Spiritual
+### Religion and Spiritual
 
 - [Electronic Rosary](https://itunes.apple.com/us/app/iterco/id489906277?mt=8) - see [this blog post](https://blog.beeminder.com/rosary/)
 
