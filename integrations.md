@@ -134,6 +134,7 @@ P. S.: Searching for the topics [beeminder](https://github.com/topics/beeminder)
 - [Altbee](https://altbee.aeonc.com/) - "an alternative web interface for Beeminder." 
   [Announcement thread](https://forum.beeminder.com/t/altbee-the-alternative-beeminder-web-interface/7315). 
   [Source code](https://github.com/quantified-self-tools/altbee).
+- [beeminder-to-sqlite](https://pypi.org/project/beeminder-to-sqlite/) - by [Ben Congdon](https://github.com/bcongdon), meant for viewing your Beeminder data in [Datasette](https://docs.datasette.io/en/stable/).
 
 ## Learning, Training, Improving, Doing
 
