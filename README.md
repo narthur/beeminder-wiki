@@ -11,7 +11,7 @@
 - [**Beeminder Blog**](https://blog.beeminder.com/) - "The Beeminder blog is a hodgepodge of productivity nerdery and
   behavioral economics written by the founders and various friends."
 - [**Beeminder Forum**](https://forum.beeminder.com/) - The official forum is a small but dedicated community of Beeminder users and fans that discuss a wide variety of topics related to Beeminder and beyond.
-- [**@bmndr**](https://twitter.com/bmndr) - Beeminder's official Twitter account.
+- [**@bmndr**](https://twitter.com/bmndr) - Beeminder's primary official Twitter account. Other official accounts include [**@beeminfra**](https://twitter.com/beeminfra), [**@beemstat**](https://twitter.com/beemstat), [**@beemuvi**](https://twitter.com/beemuvi), and [**@bmndrdogfood**](https://twitter.com/bmndrdogfood). Beeminder's cofounders tweet at [**@thatgirl**](https://twitter.com/thatgirl) and [**@dreev**](https://twitter.com/dreev).
 
 ## Getting Started
 
