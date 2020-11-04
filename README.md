@@ -11,6 +11,7 @@
 - [**Beeminder Blog**](https://blog.beeminder.com/) - "The Beeminder blog is a hodgepodge of productivity nerdery and
   behavioral economics written by the founders and various friends."
 - [**Beeminder Forum**](https://forum.beeminder.com/) - The official forum is a small but dedicated community of Beeminder users and fans that discuss a wide variety of topics related to Beeminder and beyond.
+- [**@bmndr**](https://twitter.com/bmndr) - Beeminder's official Twitter account.
 
 ## Getting Started
 
