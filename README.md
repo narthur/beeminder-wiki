@@ -53,7 +53,7 @@ Also, be sure to check out the [**Featured**](https://www.beeminder.com/featured
 
 ## Credit
 
-Originally created by [Nathan Arthur](https://github.com/narthur), this fan wiki is an open project of the Beeminder community. It's distributed under the MIT License. See `LICENSE` for more information.
+Originally created by [Nathan Arthur](https://github.com/narthur), this fan wiki is an open project of the Beeminder community. It's distributed under the MIT License. See [`LICENSE`](LICENSE) for more information.
 
 Contributors:
 
