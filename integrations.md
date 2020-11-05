@@ -5,8 +5,7 @@ This was originally a [forum thread](https://forum.beeminder.com/t/beeminder-int
 
 ## Table of Contents
 
-- [Integrations](#integrations)
-  - [Changelog](#changelog)
+- [Table of Contents](#table-of-contents)
 - [Meta](#meta)
   - [Beeminder](#beeminder)
   - [Tools to create arbitrary integrations](#tools-to-create-arbitrary-integrations)
@@ -180,12 +179,9 @@ P. S.: Searching for the topics [beeminder](https://github.com/topics/beeminder)
 
 ## Social Media and Communities
 
-- Instagram  - through Nectar; see [this thread](https://forum.beeminder.com/t/new-mobile-app-android-ios-windows-plus-7-new-integrations/3421?u=openmedi), specifically [this response](https://forum.beeminder.com/t/new-mobile-app-android-ios-windows-plus-7-new-integrations/3421/30?u=openmedi); also note: "these integrations are for testing only and should not be used in Beeminder goals where money is at stake"; it might be easier to use IFTTT or Zapier if possible (see above)
-- Facebook - through Nectar; see [this thread](https://forum.beeminder.com/t/new-mobile-app-android-ios-windows-plus-7-new-integrations/3421?u=openmedi), specifically [this response](https://forum.beeminder.com/t/new-mobile-app-android-ios-windows-plus-7-new-integrations/3421/30?u=openmedi); also note: "these integrations are for testing only and should not be used in Beeminder goals where money is at stake"; it might be easier to use IFTTT or Zapier if possible (see above)
-- Flickr - through Nectar; see [this thread](https://forum.beeminder.com/t/new-mobile-app-android-ios-windows-plus-7-new-integrations/3421?u=openmedi), specifically [this response](https://forum.beeminder.com/t/new-mobile-app-android-ios-windows-plus-7-new-integrations/3421/30?u=openmedi); also note: "these integrations are for testing only and should not be used in Beeminder goals where money is at stake"; it might be easier to use IFTTT or Zapier if possible (see above)
-- Twitter - through Nectar; see [this thread](https://forum.beeminder.com/t/new-mobile-app-android-ios-windows-plus-7-new-integrations/3421?u=openmedi), specifically [this response](https://forum.beeminder.com/t/new-mobile-app-android-ios-windows-plus-7-new-integrations/3421/30?u=openmedi); also note: "these integrations are for testing only and should not be used in Beeminder goals where money is at stake"; it might be easier to use IFTTT or Zapier if possible (see above)
-- Wikipedia - through Nectar; see [this thread](https://forum.beeminder.com/t/new-mobile-app-android-ios-windows-plus-7-new-integrations/3421?u=openmedi), specifically [this response](https://forum.beeminder.com/t/new-mobile-app-android-ios-windows-plus-7-new-integrations/3421/30?u=openmedi); also note: "these integrations are for testing only and should not be used in Beeminder goals where money is at stake"; it might be easier to use IFTTT or Zapier if possible (see above)
-- World Community Grid - through Nectar; see [this thread](https://forum.beeminder.com/t/new-mobile-app-android-ios-windows-plus-7-new-integrations/3421?u=openmedi), specifically [this response](https://forum.beeminder.com/t/new-mobile-app-android-ios-windows-plus-7-new-integrations/3421/30?u=openmedi); also note: "these integrations are for testing only and should not be used in Beeminder goals where money is at stake"; it might be easier to use IFTTT or Zapier if possible (see above)
+NOTE: Nectar is currently not active, see [this post](https://forum.beeminder.com/t/new-mobile-app-android-ios-windows-plus-7-new-integrations/3421/31) for details. The project is [open-source](https://github.com/beeminder-capstone/Nectar-Backend) if you'd like to self-host a version.
+ 
+- Instagram, Facebook, etc.  - through Nectar; see [this thread](https://forum.beeminder.com/t/new-mobile-app-android-ios-windows-plus-7-new-integrations/3421?u=openmedi), specifically [this response](https://forum.beeminder.com/t/new-mobile-app-android-ios-windows-plus-7-new-integrations/3421/30?u=openmedi); also note: "these integrations are for testing only and should not be used in Beeminder goals where money is at stake"; it might be easier to use IFTTT or Zapier if possible (see above)
 
 ## Productivity, Work
 
@@ -226,7 +222,6 @@ P. S.: Searching for the topics [beeminder](https://github.com/topics/beeminder)
   [GitHub Repo](https://github.com/openmedi/beemind-hooks)  
 - ToDoIst - Todos - [official](https://www.beeminder.com/new)
 - Trello - Card average age - [through Beemind.me](https://beemind.me/)
-- Trello - Card average age - [through Beemind.me](https://beemind.me/)
 - Trello - Cards backlog - [through Beemind.me](https://beemind.me/)
 - Trello - Cards age RMP - [through Beemind.me](https://beemind.me/)
 - Trello - Cards backlog Exp - [through Beemind.me](https://beemind.me/)
@@ -244,9 +239,8 @@ P. S.: Searching for the topics [beeminder](https://github.com/topics/beeminder)
 ### Activity etc.
 
 - Google Fit - Active time - [through Beemind.me](https://beemind.me/)
-- Apple Health - Active Energy - [official](https://www.beeminder.com/new), [go here for the announcement](https://blog.beeminder.com/apple/)
+- Apple Health - Active / Rest Energy - [official](https://www.beeminder.com/new), [go here for the announcement](https://blog.beeminder.com/apple/)
 - Apple Health - Nike fuel - [official](https://www.beeminder.com/new), [go here for the announcement](https://blog.beeminder.com/apple/)
-- Apple Health - Resting Energy - [official](https://www.beeminder.com/new), [go here for the announcement](https://blog.beeminder.com/apple/)
 - Apple Health - Stand hours - [official](https://www.beeminder.com/new), [go here for the announcement](https://blog.beeminder.com/apple/)
 - Fitbit - Active Time - [official](https://www.beeminder.com/new)
 - Garmin - Active Time (in Minutes) - [official](https://www.beeminder.com/new)
@@ -254,13 +248,7 @@ P. S.: Searching for the topics [beeminder](https://github.com/topics/beeminder)
 
 ### Boating, Rafting etc.
 
-- Strava - (miles, kilometres, time, number of activities, calories, effort weighted time) of Canoeing - [official](https://www.beeminder.com/new); can also be combined with other strava activities
-- Strava - (miles, kilometres, time, number of activities, calories, effort weighted time) of Kayaking - [official](https://www.beeminder.com/new); can also be combined with other strava activities
-- Strava - (miles, kilometres, time, number of activities, calories, effort weighted time) of Rowing - [official](https://www.beeminder.com/new); can also be combined with other strava activities
-- Strava - (miles, kilometres, time, number of activities, calories, effort weighted time) of Stand-Up Paddling - [official](https://www.beeminder.com/new); can also be combined with other strava activities
-- Strava - (miles, kilometres, time, number of activities, calories, effort weighted time) of Surfing - [official](https://www.beeminder.com/new); can also be combined with other strava activities
-- Strava - (miles, kilometres, time, number of activities, calories, effort weighted time) of Kitesurfing - [official](https://www.beeminder.com/new); can also be combined with other strava activities
-- Strava - (miles, kilometres, time, number of activities, calories, effort weighted time) of Windsurfing - [official](https://www.beeminder.com/new); can also be combined with other strava activities
+- Strava - (miles, kilometres, time, number of activities, calories, effort weighted time) of Canoeing, Kayaking, Rowing, Surfing, etc. - [official](https://www.beeminder.com/new); can also be combined with other strava activities
 
 ### Cycling, Biking
 
@@ -272,11 +260,9 @@ P. S.: Searching for the topics [beeminder](https://github.com/topics/beeminder)
 
 ### Diet
 
-- Apple Health - Dietary Energy - [official](https://www.beeminder.com/new), [go here for the announcement](https://blog.beeminder.com/apple/)
-- Apple Health - Dietary Protein - [official](https://www.beeminder.com/new), [go here for the announcement](https://blog.beeminder.com/apple/)
+- Apple Health - Dietary Energy / Protein - [official](https://www.beeminder.com/new), [go here for the announcement](https://blog.beeminder.com/apple/)
 - Apple Health - Water consumed - [official](https://www.beeminder.com/new), [go here for the announcement](https://blog.beeminder.com/apple/)
-- Fitbit - Total Calories burned - [official](https://www.beeminder.com/new)
-- Fitbit - Total Calories eaten - [official](https://www.beeminder.com/new)
+- Fitbit - Total Calories burned / eaten - [official](https://www.beeminder.com/new)
 - Fitbit - Water - [official](https://www.beeminder.com/new)
 - Fitbit - Net Calories - [official](https://www.beeminder.com/new)
 - MyFitnessPal - Total Calories Eaten - [see this thread](https://forum.beeminder.com/t/a-guide-to-beeminding-myfitnesspal-calories/5113)
@@ -285,12 +271,7 @@ P. S.: Searching for the topics [beeminder](https://github.com/topics/beeminder)
 
 - Apple Health - Exercise time - [official](https://www.beeminder.com/new), [go here for the announcement](https://blog.beeminder.com/apple/)
 - Google Fit - Strength Training - [through Beemind.me](https://beemind.me/)
-- Strava - (miles, kilometres, time, number of activities, calories, effort weighted time) of Stair Stepper-ing - [official](https://www.beeminder.com/new); can also be combined with other strava activities
-- Strava - (miles, kilometres, time, number of activities, calories, effort weighted time) of Working Out - [official](https://www.beeminder.com/new); can also be combined with other strava activities
-- Strava - (miles, kilometres, time, number of activities, calories, effort weighted time) of Yoga - [official](https://www.beeminder.com/new); can also be combined with other strava activities
-- Strava - (miles, kilometres, time, number of activities, calories, effort weighted time) of Weight Training - [official](https://www.beeminder.com/new); can also be combined with other strava activities
-- Strava - (miles, kilometres, time, number of activities, calories, effort weighted time) of Crossfit - [official](https://www.beeminder.com/new); can also be combined with other strava activities
-- Strava - (miles, kilometres, time, number of activities, calories, effort weighted time) of Elliptical - [official](https://www.beeminder.com/new); can also be combined with other strava activities
+- Strava - (miles, kilometres, time, number of activities, calories, effort weighted time) of Stairs, Yoga, Crossfit, Elliptical, Weight Training, etc. - [official](https://www.beeminder.com/new); can also be combined with other strava activities
 
 ### Meditation
 
@@ -323,8 +304,7 @@ P. S.: Searching for the topics [beeminder](https://github.com/topics/beeminder)
 
 ### Swimming
 
-- Apple Health - Swimming strokes - [official](https://www.beeminder.com/new), [go here for the announcement](https://blog.beeminder.com/apple/)
-- Apple Health - Swimming distance - [official](https://www.beeminder.com/new), [go here for the announcement](https://blog.beeminder.com/apple/)
+- Apple Health - Swimming strokes / distance - [official](https://www.beeminder.com/new), [go here for the announcement](https://blog.beeminder.com/apple/)
 - Runkeeper - Swimming (miles, kilometers, times, minutes, hours, calories) - [official](https://www.beeminder.com/new)
 - Strava - (miles, kilometres, time, number of activities, calories, effort weighted time) of Swimming - [official](https://www.beeminder.com/new); can also be combined with other strava activities
 
@@ -337,25 +317,16 @@ P. S.: Searching for the topics [beeminder](https://github.com/topics/beeminder)
 - Fitbit - Floors - [official](https://www.beeminder.com/new)
 - Garmin - Total Distance (Miles or Kilometers) - [official](https://www.beeminder.com/new)
 - Garmin - Total Time (in Hours) - [official](https://www.beeminder.com/new)
-- Runkeeper - Running (miles, kilometers, times, minutes, hours, calories) - [official](https://www.beeminder.com/new)
-- Runkeeper - Walking (miles, kilometers, times, minutes, hours, calories) - [official](https://www.beeminder.com/new)
-- Strava - (miles, kilometres, time, number of activities, calories, effort weighted time) of Running - [official](https://www.beeminder.com/new); can also be combined with other strava activities
-- Strava - (miles, kilometres, time, number of activities, calories, effort weighted time) of Hiking - [official](https://www.beeminder.com/new); can also be combined with other strava activities
-- Strava - (miles, kilometres, time, number of activities, calories, effort weighted time) of Walking - [official](https://www.beeminder.com/new); can also be combined with other strava activities
-- Strava - (miles, kilometres, time, number of activities, calories, effort weighted time) of Wheelchairing - [official](https://www.beeminder.com/new); can also be combined with other strava activities
+- Runkeeper - Running / Walking (miles, kilometers, times, minutes, hours, calories) - [official](https://www.beeminder.com/new)
+- Strava - (miles, kilometres, time, number of activities, calories, effort weighted time) of Running, Hiking, Walking, or Wheelchairing - [official](https://www.beeminder.com/new); can also be combined with other strava activities
 
 ### Skating
 
-- Strava - (miles, kilometres, time, number of activities, calories, effort weighted time) of Ice Skating - [official](https://www.beeminder.com/new); can also be combined with other strava activities
-- Strava - (miles, kilometres, time, number of activities, calories, effort weighted time) of Inline Skating - [official](https://www.beeminder.com/new); can also be combined with other strava activities
+- Strava - (miles, kilometres, time, number of activities, calories, effort weighted time) of Ice Skating or Inline Skating - [official](https://www.beeminder.com/new); can also be combined with other strava activities
 
 ### Skiing and other Snow sports
 
-- Strava - (miles, kilometres, time, number of activities, calories, effort weighted time) of Alpine Skiing - [official](https://www.beeminder.com/new); can also be combined with other strava activities
-- Strava - (miles, kilometres, time, number of activities, calories, effort weighted time) of Backcountry Skiing - [official](https://www.beeminder.com/new); can also be combined with other strava activities
-- Strava - (miles, kilometres, time, number of activities, calories, effort weighted time) of Nordic Ski - [official](https://www.beeminder.com/new); can also be combined with other strava activities
-- Strava - (miles, kilometres, time, number of activities, calories, effort weighted time) of Snowboarding - [official](https://www.beeminder.com/new); can also be combined with other strava activities
-- Strava - (miles, kilometres, time, number of activities, calories, effort weighted time) of Snowshoeing - [official](https://www.beeminder.com/new); can also be combined with other strava activities
+- Strava - (miles, kilometres, time, number of activities, calories, effort weighted time) of Skiing, Snowboarding, or Snowshoeing - [official](https://www.beeminder.com/new); can also be combined with other strava activities
 
 ### Weight
 
