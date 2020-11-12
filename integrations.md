@@ -122,7 +122,7 @@ P. S.: Searching for the topics [beeminder](https://github.com/topics/beeminder)
 - Android, iOS, Windows Mobile - [Nectar](https://github.com/beeminder-capstone/Nectar-Frontend) - by @nectar
 - Android - [Beedroid](https://play.google.com/store/apps/details?id=com.beeminder.beeminder&hl=en) - official Beeminder app for Android
 - Android - GTBeedroid - I'm not sure any of this is working right now; [@yixler's repo](https://github.com/nicholasRutherford/gtbee) and [@zedmango's fork](https://github.com/zedmango/gtbee), see [@yixler's thread](https://forum.beeminder.com/t/gtbee-for-android/777) and [@zedmango's more recent thread](https://forum.beeminder.com/t/getting-gtbee-for-android-working-again/4755)
-- iOS - [beemios](https://github.com/beeminder/beemios) - official iOS-App by @apb
+- iOS - [Beeminder iOS](https://apps.apple.com/us/app/beeminder/id551869729?mt=8) - official iOS-App by @apb and others (replaces [beemios](https://github.com/beeminder/beemios)) - Link to [BeeSwift-Github Repo](https://github.com/beeminder/BeeSwift)
 - iOS - [GTBee](https://itunes.apple.com/us/app/gtbee/id779525180?mt=8) - official; get charged, when you don't do your tasks; see [this Blog post](https://blog.beeminder.com/gtbee/) and [this Blog post](https://blog.beeminder.com/apple/)
 - iOS - Shortcuts - see [this thread](https://forum.beeminder.com/t/ios-is-open-source-again-request-for-feature-bugfix-requests/3620/7)
 
