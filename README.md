@@ -41,9 +41,9 @@ Also, be sure to check out the [**Featured**](https://www.beeminder.com/featured
 
 ## Wiki Pages
 
-- [**Extending Beeminder**](extending-beeminder.md)
-- [**Integrations**](integrations.md) - A nearly comprehensive list of all official and unofficial products and services that can be used to track data via Beeminder.
 - [**Contributing**](contributing.md) - A guide to how to add information to this wiki yourself!
+- [**Extending Beeminder**](extending-beeminder.md) - Information on how to use code to extend and interact with Beeminder.
+- [**Integrations**](integrations.md) - A nearly comprehensive list of all official and unofficial products and services that can be used to track data via Beeminder.
 
 ## Articles
 
