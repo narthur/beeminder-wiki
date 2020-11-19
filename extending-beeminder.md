@@ -1,5 +1,7 @@
 # Extending Beeminder
 
+See also: [Integrations](https://github.com/narthur/beeminder-wiki/blob/master/integrations.md)
+
 ## Graphical Automation Tools
 
 - [**Android and Beeminder and Tasker**](https://blog.beeminder.com/beedroid/)
