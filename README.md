@@ -52,12 +52,16 @@ Also, be sure to check out the [**Featured**](https://www.beeminder.com/featured
 - [Beeminder and Self-Tracking: Five Months In](https://themusegarden.wordpress.com/2013/05/18/beeminder-and-self-tracking-five-months-in/) by Al Nelson.
 - [How to Automatically Track Anything With Beeminder](https://www.rationality.org/resources/updates/2014/how-to-automatically-track-anything-with-beeminder) by Louie Helm.
 
-## Credit
+## Contributors
 
-Originally created by [Nathan Arthur](https://github.com/narthur), this fan wiki is an open project of the Beeminder community. It's distributed under the MIT License. See [`LICENSE`](LICENSE) for more information.
+Originally created by [Nathan Arthur](https://github.com/narthur), this fan wiki is an open project of the Beeminder community. It's distributed under the MIT License. See [`LICENSE`](LICENSE) for more information. [Learn how to contribute.](contributing.md)
 
 Contributors:
 
 [![](https://sourcerer.io/fame/narthur/narthur/beeminder-wiki/images/0)](https://sourcerer.io/fame/narthur/narthur/beeminder-wiki/links/0)[![](https://sourcerer.io/fame/narthur/narthur/beeminder-wiki/images/1)](https://sourcerer.io/fame/narthur/narthur/beeminder-wiki/links/1)[![](https://sourcerer.io/fame/narthur/narthur/beeminder-wiki/images/2)](https://sourcerer.io/fame/narthur/narthur/beeminder-wiki/links/2)[![](https://sourcerer.io/fame/narthur/narthur/beeminder-wiki/images/3)](https://sourcerer.io/fame/narthur/narthur/beeminder-wiki/links/3)[![](https://sourcerer.io/fame/narthur/narthur/beeminder-wiki/images/4)](https://sourcerer.io/fame/narthur/narthur/beeminder-wiki/links/4)[![](https://sourcerer.io/fame/narthur/narthur/beeminder-wiki/images/5)](https://sourcerer.io/fame/narthur/narthur/beeminder-wiki/links/5)[![](https://sourcerer.io/fame/narthur/narthur/beeminder-wiki/images/6)](https://sourcerer.io/fame/narthur/narthur/beeminder-wiki/links/6)[![](https://sourcerer.io/fame/narthur/narthur/beeminder-wiki/images/7)](https://sourcerer.io/fame/narthur/narthur/beeminder-wiki/links/7)
+
+Contribution goals:
+
+- [**narthur/bm-wiki**](https://www.beeminder.com/narthur/bm-wiki)
 
 For information on the people who created Beeminder, visit their [About Us](https://www.beeminder.com/aboutus) page.
