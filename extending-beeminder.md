@@ -20,7 +20,7 @@ See also: [Integrations](https://github.com/narthur/beeminder-wiki/blob/master/i
 
 ## Hardware
 
-- [narthur](https://github.com/narthur)/[beeminder-traffic-light](https://github.com/narthur/beeminder-traffic-light) - Tutorial. "How to use a Raspberry Pi as a Beeminder traffic light"
+- [narthur](https://github.com/narthur)/[**beeminder-traffic-light**](https://github.com/narthur/beeminder-traffic-light) - Tutorial. "How to use a Raspberry Pi as a Beeminder traffic light"
 
 ## Scripting
 
