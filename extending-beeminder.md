@@ -18,6 +18,10 @@ See also: [Integrations](https://github.com/narthur/beeminder-wiki/blob/master/i
 - [**Beeminder Open Tabs**](https://openuserjs.org/scripts/narthur/Beeminder_Open_Tabs) - User script that adds links
   for opening all goals in new tabs from dashboard.
 
+## Hardware
+
+- [narthur](https://github.com/narthur)/[beeminder-traffic-light](https://github.com/narthur/beeminder-traffic-light) - Tutorial. "How to use a Raspberry Pi as a Beeminder traffic light"
+
 ## Scripting
 
 - [**Beeminder API**](http://api.beeminder.com/#beeminder-api-reference) - Beeminder's API allows you to integrate
