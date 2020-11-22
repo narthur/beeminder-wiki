@@ -56,12 +56,12 @@ Also, be sure to check out the [**Featured**](https://www.beeminder.com/featured
 
 Originally created by [Nathan Arthur](https://github.com/narthur), this fan wiki is an open project of the Beeminder community. It's distributed under the MIT License. See [`LICENSE`](LICENSE) for more information. [Learn how to contribute.](contributing.md)
 
-Contributors:
+For information on the people who created Beeminder, visit their [About Us](https://www.beeminder.com/aboutus) page.
+
+### Contributors
 
 [![](https://sourcerer.io/fame/narthur/narthur/beeminder-wiki/images/0)](https://sourcerer.io/fame/narthur/narthur/beeminder-wiki/links/0)[![](https://sourcerer.io/fame/narthur/narthur/beeminder-wiki/images/1)](https://sourcerer.io/fame/narthur/narthur/beeminder-wiki/links/1)[![](https://sourcerer.io/fame/narthur/narthur/beeminder-wiki/images/2)](https://sourcerer.io/fame/narthur/narthur/beeminder-wiki/links/2)[![](https://sourcerer.io/fame/narthur/narthur/beeminder-wiki/images/3)](https://sourcerer.io/fame/narthur/narthur/beeminder-wiki/links/3)[![](https://sourcerer.io/fame/narthur/narthur/beeminder-wiki/images/4)](https://sourcerer.io/fame/narthur/narthur/beeminder-wiki/links/4)[![](https://sourcerer.io/fame/narthur/narthur/beeminder-wiki/images/5)](https://sourcerer.io/fame/narthur/narthur/beeminder-wiki/links/5)[![](https://sourcerer.io/fame/narthur/narthur/beeminder-wiki/images/6)](https://sourcerer.io/fame/narthur/narthur/beeminder-wiki/links/6)[![](https://sourcerer.io/fame/narthur/narthur/beeminder-wiki/images/7)](https://sourcerer.io/fame/narthur/narthur/beeminder-wiki/links/7)
 
-Contribution goals:
+### Contribution Goals:
 
 - [**narthur/bm-wiki**](https://www.beeminder.com/narthur/bm-wiki)
-
-For information on the people who created Beeminder, visit their [About Us](https://www.beeminder.com/aboutus) page.
