@@ -65,3 +65,5 @@ For information on the people who created Beeminder, visit their [About Us](http
 ### Contribution Goals:
 
 - [**narthur/bm-wiki**](https://www.beeminder.com/narthur/bm-wiki)
+
+Do you have a Beeminder goal for contributing to this wiki that you'd like featured in this list? Submit a pull request to this repository with your goal added to the list. All goals featured in this list must be public.
