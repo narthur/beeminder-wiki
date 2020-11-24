@@ -42,5 +42,5 @@ Beeminder users use the API to create all sorts of things! Below is only a small
 - [quantified-self-tools/altbee: Altbee — the alternative Beeminder web interface](https://github.com/quantified-self-tools/altbee) - Elixir.
 - [Sodaware/beeminder.el: Submit data to Beeminder from within Emacs. Also integrates with org-mode.](https://github.com/Sodaware/beeminder.el)
 - [tsubery/quantifier: A quantified-self app that tracks various fitness & productivity metrics.](https://github.com/tsubery/quantifier) - Ruby.
-
+- [dehowell/beeminder-mathematica: Mathematica 12 friendly wrapper for Beeminder API](https://github.com/dehowell/beeminder-mathematica) - Mathematica.
 
