@@ -62,7 +62,7 @@ For information on the people who created Beeminder, visit their [About Us](http
 
 [![](https://sourcerer.io/fame/narthur/narthur/beeminder-wiki/images/0)](https://sourcerer.io/fame/narthur/narthur/beeminder-wiki/links/0)[![](https://sourcerer.io/fame/narthur/narthur/beeminder-wiki/images/1)](https://sourcerer.io/fame/narthur/narthur/beeminder-wiki/links/1)[![](https://sourcerer.io/fame/narthur/narthur/beeminder-wiki/images/2)](https://sourcerer.io/fame/narthur/narthur/beeminder-wiki/links/2)[![](https://sourcerer.io/fame/narthur/narthur/beeminder-wiki/images/3)](https://sourcerer.io/fame/narthur/narthur/beeminder-wiki/links/3)[![](https://sourcerer.io/fame/narthur/narthur/beeminder-wiki/images/4)](https://sourcerer.io/fame/narthur/narthur/beeminder-wiki/links/4)[![](https://sourcerer.io/fame/narthur/narthur/beeminder-wiki/images/5)](https://sourcerer.io/fame/narthur/narthur/beeminder-wiki/links/5)[![](https://sourcerer.io/fame/narthur/narthur/beeminder-wiki/images/6)](https://sourcerer.io/fame/narthur/narthur/beeminder-wiki/links/6)[![](https://sourcerer.io/fame/narthur/narthur/beeminder-wiki/images/7)](https://sourcerer.io/fame/narthur/narthur/beeminder-wiki/links/7)
 
-### Contribution Goals:
+### Contribution Goals
 
 - [**narthur/bm-wiki**](https://www.beeminder.com/narthur/bm-wiki)
 
