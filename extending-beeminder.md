@@ -32,6 +32,7 @@ See also: [Integrations](https://github.com/narthur/beeminder-wiki/blob/master/i
 Beeminder users use the API to create all sorts of things! Below is only a small sample of the projects that have been published publicly online. [Search GitHub](https://github.com/search?q=beeminder&type=) to find more. If you know of a project you think should be added to the list below, [make a pull request with your addition](contributing.md).
 
 - [davecahill/beesight: Retrieves meditation data from insighttimer.com and posts the data points to beeminder for tracking.](https://github.com/davecahill/beesight) - Python.
+- [dehowell/beeminder-mathematica: Mathematica 12 friendly wrapper for Beeminder API](https://github.com/dehowell/beeminder-mathematica) - Mathematica.
 - [ianmcb/beetime: Beeminder Anki add-on](https://github.com/ianmcb/beetime) - Python.
 - [lastobelus/beeminder-anki: Anki 2.0 add-on that syncs review stats with Beeminder](https://github.com/lastobelus/beeminder-anki) - Python.
 - [lydgate/bmndr: Simple python CLI for beeminder.com](https://github.com/lydgate/bmndr)
@@ -40,7 +41,8 @@ Beeminder users use the API to create all sorts of things! Below is only a small
 - [mbork/beeminder.el: A Beeminder client for Emacs](https://github.com/mbork/beeminder.el)
 - [phdoerfler/beegment: A little webservice to enhance the Beeminder API](https://github.com/phdoerfler/beegment) - Scala.
 - [quantified-self-tools/altbee: Altbee — the alternative Beeminder web interface](https://github.com/quantified-self-tools/altbee) - Elixir.
+- [quantified-self-tools/bagg: Beebrain aggregation implementation in Elixir](https://github.com/quantified-self-tools/bagg) - Elixir. Computes aggregated data points, [as described here](https://forum.beeminder.com/t/github-projects-that-use-the-beeminder-api/7497/3?u=narthur). Also exposed via Altbee's public API, [as described here](https://forum.beeminder.com/t/beeminder-mathematica-package/7385/12).
 - [Sodaware/beeminder.el: Submit data to Beeminder from within Emacs. Also integrates with org-mode.](https://github.com/Sodaware/beeminder.el)
 - [tsubery/quantifier: A quantified-self app that tracks various fitness & productivity metrics.](https://github.com/tsubery/quantifier) - Ruby.
-- [dehowell/beeminder-mathematica: Mathematica 12 friendly wrapper for Beeminder API](https://github.com/dehowell/beeminder-mathematica) - Mathematica.
+
 
