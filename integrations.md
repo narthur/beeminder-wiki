@@ -1,7 +1,9 @@
 # Integrations
 
 This was originally a [forum thread](https://forum.beeminder.com/t/beeminder-integrations-megalist/5091) created by user 
-[**@matti**](https://forum.beeminder.com/u/matti)
+[**@matti**](https://forum.beeminder.com/u/matti).
+
+See also: [Extending Beeminder](extending-beeminder.md)
 
 ## Table of Contents
 
