@@ -1,6 +1,6 @@
 # Extending Beeminder
 
-See also: [Integrations](https://github.com/narthur/beeminder-wiki/blob/master/integrations.md)
+See also: [Integrations](integrations.md)
 
 ## Graphical Automation Tools
 
