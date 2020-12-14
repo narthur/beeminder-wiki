@@ -2,6 +2,8 @@
 
 See also: [Integrations](integrations.md)
 
+Thanks to @philip for granting permission to duplicate the content in his [API Coding Resources List](https://forum.beeminder.com/t/api-coding-resources-list/2947) forum thread!
+
 ## Graphical Automation Tools
 
 - [**Android and Beeminder and Tasker**](https://blog.beeminder.com/beedroid/)
@@ -26,15 +28,37 @@ See also: [Integrations](integrations.md)
 
 - [**Beeminder API**](http://api.beeminder.com/#beeminder-api-reference) - Beeminder's API allows you to integrate
   Beeminder with your own scripts and programs.
+  
+Note that a project's inclusion below does not mean it is official, tested, or endorsed. Use at your own risk.
 
 ### API Wrappers
 
+- [beeminder/beeminder-gem](https://github.com/beeminder/beeminder-gem) - Ruby (@muflax)
+- [beeminder/beeminder-php-api](https://github.com/beeminder/beeminder-php-api) - PHP (@sodaware)
+- [beeminder/bee-perl](https://github.com/beeminder/bee-perl) - Perl 
+- [beeminder/wolfminder](https://github.com/beeminder/wolfminder) - Mathematica (@dreev)
+- [beeminder-capstone/Nectar-Frontend](https://github.com/beeminder-capstone/Nectar-Frontend/blob/develop/src/providers/beeminder-api.ts) - Angular/Ionic (@nectar)
+- [malcolmocean/beeminderjs](https://github.com/malcolmocean/beeminderjs) - NodeJS (@malcolm)
 - [mattjoyce/**beeminderpy**](https://github.com/mattjoyce/beeminderpy) - python wrapper for beeminder api
+- [mbork/beeminder.el](https://github.com/mbork/beeminder.el) - Emacs (@mbork)
 - [narthur/**pyminder**](https://github.com/narthur/pyminder) - Beeminder library for Python
+- [pjjh/bmndr](https://github.com/pjjh/bmndr) - Perl (@philip)
 
 ### Example Projects
 
 Beeminder users use the API to create all sorts of things! Below is only a small sample of the projects that have been published publicly online. [Search GitHub](https://github.com/search?q=beeminder&type=) to find more. If you know of a project you think should be added to the list below, [make a pull request with your addition](contributing.md).
+
+*  [lydgate/bmndr](https://github.com/lydgate/bmndr), the original command line script by @bkam 
+* [pjjh/bmndr](https://github.com/pjjh/bmndr), @philip's fork of lydgate/bmndr
+* [chipmanaged/MCM-Dashboard](https://github.com/chipmanaged/MCM-Dashboard), including @mary's brilliant [dashboard and autodial](http://forum.beeminder.com/t/help-yourself-to-some-api-files/524) features
+* [giovanni/evernote](https://github.com/giovannicoppola/beEvernote), @giovanni's inbox-zero evernote integration
+* [beeminder/beebot](https://github.com/beeminder/beebot), our Slack bot, by @apb
+* [beeminder/beemios](https://github.com/beeminder/beemios), our  iOS app, by @apb 
+* [palfrey/beeminder-calendar](https://github.com/palfrey/beeminder-calendar), eep days to calendar, by @palfrey
+* [palfrey/docket](https://github.com/palfrey/docket), synch with Todoist, by @palfrey 
+* [beeminder-capstone/Nectar-Frontend](https://github.com/beeminder-capstone/Nectar-Frontend), Android, iOS and Windows mobile app, by @nectar (@rnj, @tdulcet and [others](http://forum.beeminder.com/t/new-mobile-app-android-ios-windows-plus-7-new-integrations/3421))
+* [beeminder-capstone/Nectar-Backend](https://github.com/beeminder-capstone/Nectar-Backend), Web app and integration framework, by @nectar (@rnj, @tdulcet and [others](http://forum.beeminder.com/t/new-mobile-app-android-ios-windows-plus-7-new-integrations/3421)), fork of [tsubery/quantifier](https://github.com/tsubery/quantifier/)
+* [beeminder-capstone/pebble](https://github.com/beeminder-capstone/pebble), Watchapp for Pebble, by @nectar (@tdulcet)
 
 #### Elixir
 
