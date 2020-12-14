@@ -48,7 +48,7 @@ Note that a project's inclusion below does not mean it is official, tested, or e
 
 Beeminder users use the API to create all sorts of things! Below is only a small sample of the projects that have been published publicly online. [Search GitHub](https://github.com/search?q=beeminder&type=) to find more. If you know of a project you think should be added to the list below, [make a pull request with your addition](contributing.md).
 
-*  [lydgate/bmndr](https://github.com/lydgate/bmndr), the original command line script by @bkam 
+* [lydgate/bmndr](https://github.com/lydgate/bmndr), the original command line script by @bkam 
 * [pjjh/bmndr](https://github.com/pjjh/bmndr), @philip's fork of lydgate/bmndr
 * [chipmanaged/MCM-Dashboard](https://github.com/chipmanaged/MCM-Dashboard), including @mary's brilliant [dashboard and autodial](http://forum.beeminder.com/t/help-yourself-to-some-api-files/524) features
 * [giovanni/evernote](https://github.com/giovannicoppola/beEvernote), @giovanni's inbox-zero evernote integration
