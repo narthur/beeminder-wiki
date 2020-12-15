@@ -42,14 +42,11 @@ Note that a project's inclusion below does not mean it is official, tested, or e
 - [mattjoyce/**beeminderpy**](https://github.com/mattjoyce/beeminderpy) - python wrapper for beeminder api
 - [mbork/beeminder.el](https://github.com/mbork/beeminder.el) - Emacs (@mbork)
 - [narthur/**pyminder**](https://github.com/narthur/pyminder) - Beeminder library for Python
-- [pjjh/bmndr](https://github.com/pjjh/bmndr) - Perl (@philip)
 
 ### Example Projects
 
 Beeminder users use the API to create all sorts of things! Below is only a small sample of the projects that have been published publicly online. [Search GitHub](https://github.com/search?q=beeminder&type=) to find more. If you know of a project you think should be added to the list below, [make a pull request with your addition](contributing.md).
 
-* [lydgate/bmndr](https://github.com/lydgate/bmndr), the original command line script by @bkam 
-* [pjjh/bmndr](https://github.com/pjjh/bmndr), @philip's fork of lydgate/bmndr
 * [chipmanaged/MCM-Dashboard](https://github.com/chipmanaged/MCM-Dashboard), including @mary's brilliant [dashboard and autodial](http://forum.beeminder.com/t/help-yourself-to-some-api-files/524) features
 * [giovanni/evernote](https://github.com/giovannicoppola/beEvernote), @giovanni's inbox-zero evernote integration
 * [beeminder/beebot](https://github.com/beeminder/beebot), our Slack bot, by @apb
@@ -77,6 +74,10 @@ Beeminder users use the API to create all sorts of things! Below is only a small
 #### Mathematica
 
 - [dehowell/**beeminder-mathematica**](https://github.com/dehowell/beeminder-mathematica) - Mathematica 12 friendly wrapper for Beeminder API
+
+#### Perl
+
+- [pjjh/**bmndr**](https://github.com/pjjh/bmndr), @philip's fork of lydgate/bmndr
 
 #### Python
 
