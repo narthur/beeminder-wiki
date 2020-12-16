@@ -15,6 +15,7 @@
   behavioral economics written by the founders and various friends."
 - [**Beeminder Forum**](https://forum.beeminder.com/) - The official forum is a small but dedicated community of Beeminder users and fans that discuss a wide variety of topics related to Beeminder and beyond.
 - [**@bmndr**](https://twitter.com/bmndr) - Beeminder's primary official Twitter account. Other official accounts include [**@beeminfra**](https://twitter.com/beeminfra), [**@beemstat**](https://twitter.com/beemstat), [**@beemuvi**](https://twitter.com/beemuvi), and [**@bmndrdogfood**](https://twitter.com/bmndrdogfood). Beeminder's cofounders tweet at [**@thatgirl**](https://twitter.com/thatgirl) and [**@dreev**](https://twitter.com/dreev).
+- Official mobile apps: [Android](https://play.google.com/store/apps/details?id=com.beeminder.beeminder&hl=en&gl=US), [iOS](https://apps.apple.com/us/app/beeminder/id551869729)
 - [**Unofficial Discord Server**](https://forum.beeminder.com/t/new-beeminder-discord-server/7451) - [forum announcement](https://forum.beeminder.com/t/new-beeminder-discord-server/7451)
 
 ## Getting Started
