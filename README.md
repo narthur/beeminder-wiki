@@ -7,16 +7,31 @@
 
 ## Links
 
-- [**Beeminder**](https://www.beeminder.com/home) - "Your goals can be anything quantifiable — weight, pushups, minutes spent
+- [**Beeminder**][1] - "Your goals can be anything quantifiable — weight, pushups, minutes spent
   on Facebook, points on Duolingo. Answer with your number when Beeminder asks — or connect a device/app below to
   auto-report — and we'll show your progress and a Yellow Brick Road to follow to stay on track. If you go off track, we
   charge your credit card!"
-- [**Beeminder Blog**](https://blog.beeminder.com/) - "The Beeminder blog is a hodgepodge of productivity nerdery and
+- [**Beeminder Blog**][2] - "The Beeminder blog is a hodgepodge of productivity nerdery and
   behavioral economics written by the founders and various friends."
-- [**Beeminder Forum**](https://forum.beeminder.com/) - The official forum is a small but dedicated community of Beeminder users and fans that discuss a wide variety of topics related to Beeminder and beyond.
-- [**@bmndr**](https://twitter.com/bmndr) - Beeminder's primary official Twitter account. Other official accounts include [**@beeminfra**](https://twitter.com/beeminfra), [**@beemstat**](https://twitter.com/beemstat), [**@beemuvi**](https://twitter.com/beemuvi), and [**@bmndrdogfood**](https://twitter.com/bmndrdogfood). Beeminder's cofounders tweet at [**@thatgirl**](https://twitter.com/thatgirl) and [**@dreev**](https://twitter.com/dreev).
-- Official mobile apps: [Android](https://play.google.com/store/apps/details?id=com.beeminder.beeminder&hl=en&gl=US), [iOS](https://apps.apple.com/us/app/beeminder/id551869729)
-- [**Unofficial Discord Server**](https://forum.beeminder.com/t/new-beeminder-discord-server/7451) - [forum announcement](https://forum.beeminder.com/t/new-beeminder-discord-server/7451)
+- [**Beeminder Forum**][3] - The official forum is a small but dedicated community of Beeminder users and fans that discuss a wide variety of topics related to Beeminder and beyond.
+- [**@bmndr**][4] - Beeminder's primary official Twitter account. Other official accounts include [**@beeminfra**][5], [**@beemstat**][6], [**@beemuvi**][7], and [**@bmndrdogfood**][8]. Beeminder's cofounders tweet at [**@thatgirl**][9] and [**@dreev**][10].
+- Official mobile apps: [**Android**][11], [**iOS**][12]
+- [**Unofficial Discord Server**][13] - [forum announcement][14]
+
+[1]: https://www.beeminder.com/home
+[2]: https://blog.beeminder.com/
+[3]: https://forum.beeminder.com/
+[4]: https://twitter.com/bmndr
+[5]: https://twitter.com/beeminfra
+[6]: https://twitter.com/beemstat
+[7]: https://twitter.com/beemuvi
+[8]: https://twitter.com/bmndrdogfood
+[9]: https://twitter.com/thatgirl
+[10]: https://twitter.com/dreev
+[11]: https://play.google.com/store/apps/details?id=com.beeminder.beeminder&hl=en&gl=US
+[12]: https://apps.apple.com/us/app/beeminder/id551869729
+[13]: https://discord.com/invite/gSBYEqqRG2
+[14]: https://forum.beeminder.com/t/new-beeminder-discord-server/7451
 
 ## Getting Started
 
