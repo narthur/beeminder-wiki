@@ -6,10 +6,13 @@ Thanks to @philip for granting permission to duplicate the content in his [API C
 
 ## Graphical Automation Tools
 
-- [**Android and Beeminder and Tasker**](https://blog.beeminder.com/beedroid/)
-- [**Tasker recipes?**](https://forum.beeminder.com/t/tasker-recipes/5367) - Forum users sharing how they use Tasker with Beeminder.
-- [**Using Beeminder with Android Automate**](https://forum.beeminder.com/t/using-beeminder-with-android-automate/6401) -
-  Short tutorial on using the Beeminder API from an Android Automate flow.
+- [**Android and Beeminder and Tasker**][1]
+- [**Tasker recipes?**][2] - Forum users sharing how they use Tasker with Beeminder.
+- [**Using Beeminder with Android Automate**][3] - Short tutorial on using the Beeminder API from an Android Automate flow.
+
+[1]: https://blog.beeminder.com/beedroid/
+[2]: https://forum.beeminder.com/t/tasker-recipes/5367
+[3]: https://forum.beeminder.com/t/using-beeminder-with-android-automate/6401
 
 ## Browser-based Customization
 
