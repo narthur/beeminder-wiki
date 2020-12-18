@@ -16,12 +16,16 @@ Thanks to @philip for granting permission to duplicate the content in his [API C
 
 ## Browser-based Customization
 
-- [**Beeminder Power Breaks**](https://openuserjs.org/scripts/narthur/Beeminder_Power_Breaks) - User script that adds 
+- [**Beeminder Power Breaks**][4] - User script that adds 
   power features to Beeminder breaks page.
-- [**Beeminder Filters**](https://openuserjs.org/scripts/narthur/Beeminder_Filters) - User script that adds filter
+- [**Beeminder Filters**][5] - User script that adds filter
   buttons to Beeminder dashboard.
-- [**Beeminder Open Tabs**](https://openuserjs.org/scripts/narthur/Beeminder_Open_Tabs) - User script that adds links
+- [**Beeminder Open Tabs**][6] - User script that adds links
   for opening all goals in new tabs from dashboard.
+
+[4]: https://openuserjs.org/scripts/narthur/Beeminder_Power_Breaks
+[5]: https://openuserjs.org/scripts/narthur/Beeminder_Filters
+[6]: https://openuserjs.org/scripts/narthur/Beeminder_Open_Tabs
 
 ## Hardware
 
