@@ -204,7 +204,7 @@ NOTE: Nectar is currently not active, see [this post](https://forum.beeminder.co
 
 ### Task Managers, ToDo-Lists
 
-- [Boss as a Service](https://bossasaservice.life/) - Informal integration possible by giving a Beeminder goal URL to your boss, described in [this blog post][https://blog.beeminder.com/baas/]
+- [Boss as a Service](https://bossasaservice.life/) - Informal integration possible by giving a Beeminder goal URL to your boss, described in [this blog post](https://blog.beeminder.com/baas/)
 - Commits.to - by @yebyenw see [this thread](https://forum.beeminder.com/t/simplest-commitbee-open-source/5232) and the 
   [GitHub repo](https://github.com/kingdonb/simplest-commitbee)
 - Complice - [by Complice](https://complice.co/features#beeminder), 
@@ -221,8 +221,7 @@ NOTE: Nectar is currently not active, see [this post](https://forum.beeminder.co
   [Official integration page](https://www.beeminder.com/taskratchet). 
   [Integration docs](https://docs.taskratchet.com/integrations.html). 
 - Taskwarrior - by @openmedi :nerd_face: see 
-  [this thread](https://forum.beeminder.com/t/beemind-hooks-a-taskwarrior-integration/5126) and the 
-  [GitHub Repo](https://github.com/openmedi/beemind-hooks)  
+  [this thread](https://forum.beeminder.com/t/beemind-hooks-a-taskwarrior-integration/5126) [broken GitHub link]
 - ToDoIst - Todos - [official](https://www.beeminder.com/new)
 - Trello - Card average age - [through Beemind.me](https://beemind.me/)
 - Trello - Cards backlog - [through Beemind.me](https://beemind.me/)
