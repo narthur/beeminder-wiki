@@ -130,6 +130,7 @@ P. S.: Searching for the topics [beeminder](https://github.com/topics/beeminder)
 
 ### Web
 
+- [Beescheduler](https://beescheduler.echonolan.net/) - by [@enolan](https://forum.beeminder.com/u/enolan). "Beescheduler lets you schedule different rates for your Beeminder goals based on the days of the week. I wrote it so I could focus on one project Monday - Wednesday and different ones on Thursday and Friday. This is much better than doing a tiny amount on all of them every day." [Forum announcmenet.](https://forum.beeminder.com/t/beescheduler-schedule-goals-by-the-day-of-the-week/3237)
 - [chipmanaged/MCM-Dashboard](https://github.com/chipmanaged/MCM-Dashboard) - by @mary, includes an autodial feature and 
   umbrella goals feature, see [this thread](http://forum.beeminder.com/t/help-yourself-to-some-api-files/524)
 - [Altbee](https://altbee.aeonc.com/) - "an alternative web interface for Beeminder." 
