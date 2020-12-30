@@ -10,3 +10,8 @@ Beeminder doesn't currently have an official RSS integration, but there are some
 - [URLminder](https://help.beeminder.com/article/88-urlminder)
 - IFTTT
 - The Beeminder API
+
+## To Add
+
+- Beeminding contributions to the Beeminder forum, or any other Discourse forum
+- Links to tutorials in the forum and blog
