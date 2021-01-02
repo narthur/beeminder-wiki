@@ -51,3 +51,5 @@ You're done! This flow will now check every 15 minutes for new items in the RSS 
 
 - Beeminding contributions to the Beeminder forum, or any other Discourse forum
 - Links to tutorials in the forum and blog
+- How to beemind Wakatime
+- How to beemind focus sessions with HeyFocus, reproducing a bare-bones version of Narthur's [focus.sh](https://github.com/narthur/focus.sh/blob/main/focus.sh) script
