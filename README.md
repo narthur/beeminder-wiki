@@ -41,7 +41,7 @@ Further reading:
 [12]: https://apps.apple.com/us/app/beeminder/id551869729
 [13]: https://discord.com/invite/gSBYEqqRG2
 [14]: https://forum.beeminder.com/t/new-beeminder-discord-server/7451
-[15]: https://www.redbubble.com/people/Beeminder/shop?asc=u&ref=account-nav-dropdown
+[15]: https://beeminder.com/merch
 
 ## Getting Started
 
