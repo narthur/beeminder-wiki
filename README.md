@@ -22,6 +22,7 @@ Further reading:
 - [**Beeminder Blog**][2] - "The Beeminder blog is a hodgepodge of productivity nerdery and
   behavioral economics written by the founders and various friends."
 - [**Beeminder Forum**][3] - The official forum is a small but dedicated community of Beeminder users and fans that discuss a wide variety of topics related to Beeminder and beyond.
+- [**Beeminder Merch**][15] - Unofficial merch shop run by @lejuletre
 - [**@bmndr**][4] - Beeminder's primary official Twitter account. Other official accounts include [**@beeminfra**][5], [**@beemstat**][6], [**@beemuvi**][7], and [**@bmndrdogfood**][8]. Beeminder's cofounders tweet at [**@thatgirl**][9] and [**@dreev**][10].
 - Official mobile apps: [**Android**][11], [**iOS**][12]
 - [**Unofficial Discord Server**][13] - [forum announcement][14]
@@ -40,6 +41,7 @@ Further reading:
 [12]: https://apps.apple.com/us/app/beeminder/id551869729
 [13]: https://discord.com/invite/gSBYEqqRG2
 [14]: https://forum.beeminder.com/t/new-beeminder-discord-server/7451
+[15]: https://www.redbubble.com/people/Beeminder/shop?asc=u&ref=account-nav-dropdown
 
 ## Getting Started
 
