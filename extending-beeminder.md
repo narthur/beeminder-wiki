@@ -22,6 +22,8 @@ Thanks to @philip for granting permission to duplicate the content in his [API C
   buttons to Beeminder dashboard.
 - [**Beeminder Open Tabs**][6] - User script that adds links
   for opening all goals in new tabs from dashboard.
+- [**Beeminder Dashboard Dense**](https://userstyles.org/styles/174385/beeminder-dashboard-dense?utm_campaign=stylish_stylepage) - User style that makes
+  the dashbord much denser.
 
 [4]: https://openuserjs.org/scripts/narthur/Beeminder_Power_Breaks
 [5]: https://openuserjs.org/scripts/narthur/Beeminder_Filters
