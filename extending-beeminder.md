@@ -37,6 +37,7 @@ Thanks to @philip for granting permission to duplicate the content in his [API C
 
 - [**Beeminder API**](http://api.beeminder.com/#beeminder-api-reference) - Beeminder's API allows you to integrate
   Beeminder with your own scripts and programs.
+- [**How to post to a Beeminder goal with a Google Form**](https://forum.beeminder.com/t/how-to-post-to-a-beeminder-goal-with-a-google-form/7746) - Tutorial.
   
 Note that a project's inclusion below does not mean it is official, tested, or endorsed. Use at your own risk.
 
