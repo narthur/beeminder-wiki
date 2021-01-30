@@ -1,5 +1,7 @@
 # Tutorials
 
+- [**How to post to a Beeminder goal with a Google Form**](https://forum.beeminder.com/t/how-to-post-to-a-beeminder-goal-with-a-google-form/7746)
+
 ## Beeminding RSS Feeds
 
 Beeminder doesn't currently have an official RSS integration, but there are some tools you can use to beemind RSS feeds right now.
