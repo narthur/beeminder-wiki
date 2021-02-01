@@ -1,6 +1,7 @@
 # Tutorials
 
 - [**How to post to a Beeminder goal with a Google Form**](https://forum.beeminder.com/t/how-to-post-to-a-beeminder-goal-with-a-google-form/7746)
+- [**How to create a Beeminder BitBar plugin for Mac**](https://forum.beeminder.com/t/how-to-create-a-beeminder-bitbar-plugin-for-mac/7762)
 
 ## Beeminding RSS Feeds
 
