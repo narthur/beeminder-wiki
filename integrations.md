@@ -144,7 +144,7 @@ P. S.: Searching for the topics [beeminder](https://github.com/topics/beeminder)
 
 - Anki - number of cards currently not due - [as an Anki extension](https://ankiweb.net/shared/info/1928083890), see also [this thread](https://forum.beeminder.com/t/anki-addon-maintained-progress/5062) - by @bluetulip
 - Anki - time spent reviewing or number of cards reviewed - [as another Anki extension](https://ankiweb.net/shared/info/1728790823) - see also [this thread](https://forum.beeminder.com/t/announcing-beeminder-for-anki/2206) - by @ianminds. Seems not to support the latest versions of Anki.
-- Anki - time spent reviewing or number of cards reviewed - [as a newer Anki extension](https://ankiweb.net/shared/info/1201383547)
+- Anki - time spent reviewing or number of cards reviewed - [as a newer Anki extension](https://ankiweb.net/shared/info/1201383547). May not work with latest versions of Anki.
 - Quizlet - Study sessions - [through Beemind.me](https://beemind.me/)
 - Quizlet - Answer count - [through Beemind.me](https://beemind.me/)
 
