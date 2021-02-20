@@ -16,18 +16,26 @@ Thanks to @philip for granting permission to duplicate the content in his [API C
 
 ## Browser-based Customization
 
-- [**Beeminder Power Breaks**][4] - User script that adds 
-  power features to Beeminder breaks page.
-- [**Beeminder Filters**][5] - User script that adds filter
-  buttons to Beeminder dashboard.
-- [**Beeminder Open Tabs**][6] - User script that adds links
-  for opening all goals in new tabs from dashboard.
-- [**Beeminder Dashboard Dense**](https://userstyles.org/styles/174385/beeminder-dashboard-dense?utm_campaign=stylish_stylepage) - User style that makes
-  the dashbord much denser.
+### User Scripts
 
-[4]: https://openuserjs.org/scripts/narthur/Beeminder_Power_Breaks
-[5]: https://openuserjs.org/scripts/narthur/Beeminder_Filters
-[6]: https://openuserjs.org/scripts/narthur/Beeminder_Open_Tabs
+- [**Beeminder Power Breaks**][https://openuserjs.org/scripts/narthur/Beeminder_Power_Breaks] - User script that adds 
+  power features to Beeminder breaks page. Made by @narthur.
+- [**Beeminder Filters**][https://openuserjs.org/scripts/narthur/Beeminder_Filters] - User script that adds filter
+  buttons to Beeminder dashboard. Made by @narthur.
+- [**Beeminder Open Tabs**][https://openuserjs.org/scripts/narthur/Beeminder_Open_Tabs] - User script that adds links
+  for opening all goals in new tabs from dashboard. Made by @narthur.
+- [**Greasy Fork**](https://greasyfork.org/en) - "Welcome to Greasy Fork, a site for user scripts."
+
+### User Styles
+
+- [**Beeminder Dashboard Dense**](https://userstyles.org/styles/174385/beeminder-dashboard-dense?utm_campaign=stylish_stylepage) - User style that makes
+  the dashbord much denser. Made by @narthur. [Mirror](https://33kk.github.io/uso-archive/?null=&search=beeminder&style=174385).
+- [**FreeStyler.WS**](https://freestyler.ws/) - "FreeStyler has everything you might need to style up websites you visit according to your taste."
+- [**Hide Beeminder Dash Graphs**](https://userstyles.org/styles/173240/hide-beeminder-dash-graphs) - User style that hides the graph thumbnails on the dashboard. Made by @narthur. [Mirror](https://33kk.github.io/uso-archive/?null=&search=beeminder&style=173240).
+- [**r/userstyles**](https://www.reddit.com/r/userstyles/) - Reddit community around the creation and use of user styles.
+- [**StyleBase**](https://stylebase.cc/) - "Collectino of UserCSS Styles"
+- [**Stylish**](https://userstyles.org/) - This website [can be very slow](https://www.reddit.com/r/userstyles/comments/hcndfo/userstylesorg_is_ridiculously_slow_often_timing/). [This mirror](https://33kk.github.io/uso-archive/) is often an easier way to access the site's content.
+- [**Stylus**](https://github.com/openstyles/stylus) - "Stylus is a fork of Stylish for Chrome, also compatible with Firefox as a WebExtension"
 
 ## Hardware
 
