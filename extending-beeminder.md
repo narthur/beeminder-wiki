@@ -25,6 +25,7 @@ Thanks to @philip for granting permission to duplicate the content in his [API C
 - [**Beeminder Open Tabs**](https://openuserjs.org/scripts/narthur/Beeminder_Open_Tabs) - User script that adds links
   for opening all goals in new tabs from dashboard. Made by @narthur.
 - [**Greasy Fork**](https://greasyfork.org/en) - "Welcome to Greasy Fork, a site for user scripts."
+- [**OpenUserJS**](https://openuserjs.org/) - A website for discovering and hosting user scripts.
 
 ### User Styles
 
