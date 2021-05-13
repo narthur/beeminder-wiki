@@ -1,5 +1,3 @@
-# [Beeminder Wiki](https://wiki.beeminder.com/)
-
 <script async src="https://cse.google.com/cse.js?cx=47d883c203399aec4"></script>
 <div class="gcse-search"></div>
 
