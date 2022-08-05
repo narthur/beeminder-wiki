@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r,a as o}from"./app.e960b7f1.js";const b=JSON.parse('{"title":"Beeminder Wiki","description":"","frontmatter":{},"headers":[],"relativePath":"index.md"}'),i={name:"index.md"},n=o("",5),a=[n];function s(h,d,c,p,m,_){return r(),t("div",null,a)}var f=e(i,[["render",s]]);export{b as __pageData,f as default};
