@@ -22,9 +22,10 @@ See also: [Extending Beeminder](extending-beeminder.md)
   and frameworks that use this, see @philip's 
   [API Coding Resources List](https://forum.beeminder.com/t/api-coding-resources-list/2947)
 - IFTTT - [official](https://www.beeminder.com/new)
-- [Integromat](https://www.integromat.com/en/) - [the integration](https://www.integromat.com/en/integrations/beeminder)
+- [Make.com](https://www.make.com/en) (formerly Integromat) - [the integration](https://www.make.com/en/integrations/beeminder)
 - huginn - [found at Github](https://github.com/huginn/huginn)
 - multigitminder - [GitHub Action on GitHub Marketplace](https://github.com/marketplace/actions/multigitminder)
+- [Pipedream](https://pipedream.com/) - Doesn't have a Beeminder integration, but can be extended to interface with Beeminder's API
 - Tasker (Android) - see this [Blog post](https://blog.beeminder.com/beedroid/), for recipes check out 
   [this thread](https://forum.beeminder.com/t/tasker-recipes/5367/5)
 - Zapier - [official](https://www.beeminder.com/new)
