@@ -61,6 +61,7 @@ Note that a project's inclusion below does not mean it is official, tested, or e
 - [mattjoyce/**beeminderpy**](https://github.com/mattjoyce/beeminderpy) - python wrapper for beeminder api
 - [mbork/beeminder.el](https://github.com/mbork/beeminder.el) - Emacs (@mbork)
 - [narthur/**pyminder**](https://github.com/narthur/pyminder) - Beeminder library for Python
+- [bvtujo/**beeminder-openapi**](https://github.com/bvtujo/beeminder-openapi) - OpenAPI spec for Beeminder API; can be used with [restish](https://rest.sh/#/) or to generate clients in any supported language. (@are)
 
 ### Example Projects
 
