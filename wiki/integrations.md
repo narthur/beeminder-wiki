@@ -1,6 +1,6 @@
 # Integrations
 
-This was originally a [forum thread](https://forum.beeminder.com/t/beeminder-integrations-megalist/5091) created by user 
+This was originally a [forum thread](https://forum.beeminder.com/t/beeminder-integrations-megalist/5091) created by user
 [**@matti**](https://forum.beeminder.com/u/matti).
 
 See also: [Extending Beeminder](extending-beeminder.md)
@@ -18,25 +18,25 @@ See also: [Extending Beeminder](extending-beeminder.md)
 
 ### Tools to create arbitrary integrations
 
-- Beeminder - although not an integration per se it can be used to create those; see http://api.beeminder.com for ideas 
-  and frameworks that use this, see @philip's 
+- Beeminder - although not an integration per se it can be used to create those; see http://api.beeminder.com for ideas
+  and frameworks that use this, see @philip's
   [API Coding Resources List](https://forum.beeminder.com/t/api-coding-resources-list/2947)
 - IFTTT - [official](https://www.beeminder.com/new)
 - [Make.com](https://www.make.com/en) (formerly Integromat) - [the integration](https://www.make.com/en/integrations/beeminder)
 - huginn - [found at Github](https://github.com/huginn/huginn)
 - multigitminder - [GitHub Action on GitHub Marketplace](https://github.com/marketplace/actions/multigitminder)
 - [Pipedream](https://pipedream.com/) - Doesn't have a Beeminder integration, but can be extended to interface with Beeminder's API
-- Tasker (Android) - see this [Blog post](https://blog.beeminder.com/beedroid/), for recipes check out 
+- Tasker (Android) - see this [Blog post](https://blog.beeminder.com/beedroid/), for recipes check out
   [this thread](https://forum.beeminder.com/t/tasker-recipes/5367/5)
 - Zapier - [official](https://www.beeminder.com/new)
 - Zenobase - see [this thread](https://forum.beeminder.com/t/zeeminding/368/8)
 
 ## Interfaces for Beeminder
 
-Things that (not only) automate data entry, but read from Beeminder and offer an Interface for it. Thanks to @philip for 
+Things that (not only) automate data entry, but read from Beeminder and offer an Interface for it. Thanks to @philip for
 [his awesome list](https://forum.beeminder.com/t/api-coding-resources-list/2947), which I basically duplicated here.
 
-P. S.: Searching for the topics [beeminder](https://github.com/topics/beeminder) or 
+P. S.: Searching for the topics [beeminder](https://github.com/topics/beeminder) or
 [beeminder-api](https://github.com/topics/beeminder-api) on GitHub might yield more projects to try out.
 
 ### Bots
@@ -46,27 +46,27 @@ P. S.: Searching for the topics [beeminder](https://github.com/topics/beeminder)
 ### Command Line
 
 - [lydgate/bmndr](https://github.com/lydgate/bmndr) written in Python - by @bkam
-- [pjjh/bmndr](https://github.com/pjjh/bmndr) written in Perl (was originally a fork of lydgate/bmndr, which originally 
+- [pjjh/bmndr](https://github.com/pjjh/bmndr) written in Perl (was originally a fork of lydgate/bmndr, which originally
   was a perl implementation) - by @philip
 - [malcolmocean/beeminderjs](https://github.com/malcolmocean/beeminderjs) written in NodeJS - by @malcolm
 
 ### Calendars, Task managers
 
-- Calendars - [palfrey/beeminder-calendar](https://github.com/palfrey/beeminder-calendar) - see your eep Days on your 
+- Calendars - [palfrey/beeminder-calendar](https://github.com/palfrey/beeminder-calendar) - see your eep Days on your
   Calendar by @palfrey
 - Complice - [by Complice](https://complice.co/features#beeminder)
-- Todoist - [palfrey/docket](https://github.com/palfrey/docket) - add goals that you need to do today to your List - by 
+- Todoist - [palfrey/docket](https://github.com/palfrey/docket) - add goals that you need to do today to your List - by
   @palfrey
 
 ### Gadgets, Buttons, DIY
 
-- AWS IoT Buttons - see [this thread](https://forum.beeminder.com/t/physical-buttons-with-aws-iot-button/4166) by 
+- AWS IoT Buttons - see [this thread](https://forum.beeminder.com/t/physical-buttons-with-aws-iot-button/4166) by
   @thomascantrell
 - e-Ink Beeminder Dashboard - see [this thread](https://forum.beeminder.com/t/e-ink-beeminder-dashboard/4775) by @phi
-- Flic Buttons - see [this thread](https://forum.beeminder.com/t/flic-http-requests-to-beeminder-api/4832) it works also 
+- Flic Buttons - see [this thread](https://forum.beeminder.com/t/flic-http-requests-to-beeminder-api/4832) it works also
   with IFTTT
 - Pebble Watch - [beeminder-capstone/pebble](https://github.com/beeminder-capstone/pebble) - by @nectar
-- see also [this thread](https://forum.beeminder.com/t/getting-physical-aka-physical-buttons/515/10) with sooo many more 
+- see also [this thread](https://forum.beeminder.com/t/getting-physical-aka-physical-buttons/515/10) with sooo many more
   IFTTT-enabled physical buttons
 
 ### Libraries
@@ -93,11 +93,12 @@ P. S.: Searching for the topics [beeminder](https://github.com/topics/beeminder)
 ### Web
 
 - [Beeminder Autodialer](https://autodial.taskratchet.com/) - by @narthur. "The Beeminder autodialer will automatically adjust the rate on your goals based on your historical performance."
+- [Beeminder Panel](https://bm.taskratchet.com) - by @narthur. An experimental web dashboard alernative to the Beeminder web app.
 - [Beescheduler](https://beescheduler.echonolan.net/) - by [@enolan](https://forum.beeminder.com/u/enolan). "Beescheduler lets you schedule different rates for your Beeminder goals based on the days of the week. I wrote it so I could focus on one project Monday - Wednesday and different ones on Thursday and Friday. This is much better than doing a tiny amount on all of them every day." [Forum announcmenet.](https://forum.beeminder.com/t/beescheduler-schedule-goals-by-the-day-of-the-week/3237)
-- [chipmanaged/MCM-Dashboard](https://github.com/chipmanaged/MCM-Dashboard) - by @mary, includes an autodial feature and 
+- [chipmanaged/MCM-Dashboard](https://github.com/chipmanaged/MCM-Dashboard) - by @mary, includes an autodial feature and
   umbrella goals feature, see [this thread](http://forum.beeminder.com/t/help-yourself-to-some-api-files/524)
-- [Altbee](https://altbee.aeonc.com/) - "an alternative web interface for Beeminder." 
-  [Announcement thread](https://forum.beeminder.com/t/altbee-the-alternative-beeminder-web-interface/7315). 
+- [Altbee](https://altbee.aeonc.com/) - "an alternative web interface for Beeminder."
+  [Announcement thread](https://forum.beeminder.com/t/altbee-the-alternative-beeminder-web-interface/7315).
   [Source code](https://github.com/quantified-self-tools/altbee).
 - [beeminder-to-sqlite](https://pypi.org/project/beeminder-to-sqlite/) - by [Ben Congdon](https://github.com/bcongdon), meant for viewing your Beeminder data in [Datasette](https://docs.datasette.io/en/stable/).
 - [BUI](https://bui.interestingprojects.net/) - "an alternative web interface for Beeminder but with more charts". [Source code](https://github.com/szymonkorytnicki/beeminder-ui). [Announcement thread](https://forum.beeminder.com/t/bui-the-alternative-beeminder-ui-more-charts/10416)
@@ -149,8 +150,8 @@ P. S.: Searching for the topics [beeminder](https://github.com/topics/beeminder)
 ## Social Media and Communities
 
 NOTE: Nectar is currently not active, see [this post](https://forum.beeminder.com/t/new-mobile-app-android-ios-windows-plus-7-new-integrations/3421/31) for details. The project is [open-source](https://github.com/beeminder-capstone/Nectar-Backend) if you'd like to self-host a version.
- 
-- Instagram, Facebook, etc.  - through Nectar; see [this thread](https://forum.beeminder.com/t/new-mobile-app-android-ios-windows-plus-7-new-integrations/3421?u=openmedi), specifically [this response](https://forum.beeminder.com/t/new-mobile-app-android-ios-windows-plus-7-new-integrations/3421/30?u=openmedi); also note: "these integrations are for testing only and should not be used in Beeminder goals where money is at stake"; it might be easier to use IFTTT or Zapier if possible (see above)
+
+- Instagram, Facebook, etc. - through Nectar; see [this thread](https://forum.beeminder.com/t/new-mobile-app-android-ios-windows-plus-7-new-integrations/3421?u=openmedi), specifically [this response](https://forum.beeminder.com/t/new-mobile-app-android-ios-windows-plus-7-new-integrations/3421/30?u=openmedi); also note: "these integrations are for testing only and should not be used in Beeminder goals where money is at stake"; it might be easier to use IFTTT or Zapier if possible (see above)
 
 ## Productivity, Work
 
@@ -172,22 +173,22 @@ NOTE: Nectar is currently not active, see [this post](https://forum.beeminder.co
 ### Task Managers, ToDo-Lists
 
 - [Boss as a Service](https://bossasaservice.life/) - Informal integration possible by giving a Beeminder goal URL to your boss, described in [this blog post](https://blog.beeminder.com/baas/)
-- Commits.to - by @yebyenw see [this thread](https://forum.beeminder.com/t/simplest-commitbee-open-source/5232) and the 
+- Commits.to - by @yebyenw see [this thread](https://forum.beeminder.com/t/simplest-commitbee-open-source/5232) and the
   [GitHub repo](https://github.com/kingdonb/simplest-commitbee)
-- Complice - [by Complice](https://complice.co/features#beeminder), 
+- Complice - [by Complice](https://complice.co/features#beeminder),
   [go here for examples and support](https://forum.beeminder.com/t/suggestions-for-additions-to-the-complice-integration/1945)
 - Habitica - To-Dos and/or Dailies - [official](https://www.beeminder.com/new)
-- Omnifocus - number of items in your OmniFocus Inbox - [through omniminder](https://github.com/dehowell/omniminder); 
+- Omnifocus - number of items in your OmniFocus Inbox - [through omniminder](https://github.com/dehowell/omniminder);
   see also [this thread](https://forum.beeminder.com/t/tech-help-beeminding-omnifocus/1631/)
-- Omnifocus - number of projects that are due for review - [through omniminder](https://github.com/dehowell/omniminder); 
+- Omnifocus - number of projects that are due for review - [through omniminder](https://github.com/dehowell/omniminder);
   see also [this thread](https://forum.beeminder.com/t/tech-help-beeminding-omnifocus/1631/)
-- Omnifocus - tasks completed in the last 48 hours - [through omniminder](https://github.com/dehowell/omniminder); see 
+- Omnifocus - tasks completed in the last 48 hours - [through omniminder](https://github.com/dehowell/omniminder); see
   also [this thread](https://forum.beeminder.com/t/tech-help-beeminding-omnifocus/1631/)
 - [TaskRatchet](https://taskratchet.com) - by @narthur. Stake money on completing one-off tasks by deadlines. Integrates
-  with Beeminder. [Announcement post](https://blog.beeminder.com/taskratchet/). 
-  [Official integration page](https://www.beeminder.com/taskratchet). 
-  [Integration docs](https://docs.taskratchet.com/integrations.html). 
-- Taskwarrior - by @openmedi :nerd_face: see 
+  with Beeminder. [Announcement post](https://blog.beeminder.com/taskratchet/).
+  [Official integration page](https://www.beeminder.com/taskratchet).
+  [Integration docs](https://docs.taskratchet.com/integrations.html).
+- Taskwarrior - by @openmedi :nerd_face: see
   [this thread](https://forum.beeminder.com/t/beemind-hooks-a-taskwarrior-integration/5126) [broken GitHub link]
 - ToDoIst - Todos - [official](https://www.beeminder.com/new)
 - Trello - Card average age - [through Beemind.me](https://beemind.me/)
