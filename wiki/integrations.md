@@ -7,7 +7,7 @@ See also: [Extending Beeminder][3]
 
 ## Table of Contents
 
-\[\[toc]]
+[[toc]]
 
 ## Meta
 
