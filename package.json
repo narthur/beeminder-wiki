@@ -9,7 +9,7 @@
     "dev": "vitepress dev wiki",
     "build": "vitepress build wiki",
     "serve": "vitepress serve wiki",
-    "format:links": "remark --no-stdout --output --use renumber-references ."
+    "format": "remark . --no-stdout --output"
   },
   "keywords": [],
   "author": "",

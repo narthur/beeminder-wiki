@@ -2,6 +2,11 @@ import { defineConfig } from "vitepress";
 
 export default defineConfig({
   title: "Beeminder Wiki",
+  markdown: {
+    toc: {
+      pattern: /^TOCPLACEHOLDER$/,
+    },
+  },
   themeConfig: {
     logo: "beeminder.png",
     editLink: {
@@ -31,26 +36,32 @@ export default defineConfig({
       {
         text: "Links",
         items: [
-            { text: "Beeminder", link: "https://beeminder.com" },
-            { text: "Blog", link: "https://blog.beeminder.com/" },
-            { text: "Forum", link: "https://forum.beeminder.com/" },
-            { text: "Mobile Apps", link: "https://help.beeminder.com/category/59-apps"},
-            { text: "Unofficial Merch", link: "https://beeminder.com/merch"},
-            { text: "Unofficial Discord", link: "https://discord.com/invite/gSBYEqqRG2" }
-        ]
+          { text: "Beeminder", link: "https://beeminder.com" },
+          { text: "Blog", link: "https://blog.beeminder.com/" },
+          { text: "Forum", link: "https://forum.beeminder.com/" },
+          {
+            text: "Mobile Apps",
+            link: "https://help.beeminder.com/category/59-apps",
+          },
+          { text: "Unofficial Merch", link: "https://beeminder.com/merch" },
+          {
+            text: "Unofficial Discord",
+            link: "https://discord.com/invite/gSBYEqqRG2",
+          },
+        ],
       },
       {
         text: "Twitter",
         items: [
-            { text: "@bmndr", link: "https://twitter.com/bmndr" },
-            { text: "@beeminfra", link: "https://twitter.com/beeminfra" },
-            { text: "@beemstat", link: "https://twitter.com/beemstat" },
-            { text: "@beemuvi", link: "https://twitter.com/beemuvi" },
-            { text: "@bmndrdogfood", link: "https://twitter.com/bmndrdogfood" },
-            { text: "@thatgirl", link: "https://twitter.com/thatgirl" },
-            { text: "@dreev", link: "https://twitter.com/dreev" },
-        ]
-      }
+          { text: "@bmndr", link: "https://twitter.com/bmndr" },
+          { text: "@beeminfra", link: "https://twitter.com/beeminfra" },
+          { text: "@beemstat", link: "https://twitter.com/beemstat" },
+          { text: "@beemuvi", link: "https://twitter.com/beemuvi" },
+          { text: "@bmndrdogfood", link: "https://twitter.com/bmndrdogfood" },
+          { text: "@thatgirl", link: "https://twitter.com/thatgirl" },
+          { text: "@dreev", link: "https://twitter.com/dreev" },
+        ],
+      },
     ],
   },
 });
