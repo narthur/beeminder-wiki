@@ -1,0 +1,27 @@
+:root {
+  --theme-warm-lighter: #fffbdd;
+  --theme-warm-light: #fff5b7;
+  --theme-warm: #ffcb06;
+  --theme-warm-dark: #e6b505;
+  --theme-warm-darker: #cc9e04;
+
+  --theme-cool-lighter: #e1f5fe;
+  --theme-cool-light: #b3e5fc;
+  --theme-cool: #0693e3;
+  --theme-cool-dark: #0288d1;
+  --theme-cool-darker: #0277bd;
+
+  --vp-c-brand: var(--theme-cool);
+  --vp-c-brand-light: var(--theme-cool-light);
+  --vp-c-brand-lighter: var(--theme-cool-lighter);
+  --vp-c-brand-dark: var(--theme-cool-dark);
+  --vp-c-brand-darker: var(--theme-cool-darker);
+}
+
+.dark {
+  --vp-c-brand: var(--theme-warm);
+  --vp-c-brand-light: var(--theme-warm-light);
+  --vp-c-brand-lighter: var(--theme-warm-lighter);
+  --vp-c-brand-dark: var(--theme-warm-dark);
+  --vp-c-brand-darker: var(--theme-warm-darker);
+}

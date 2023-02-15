@@ -2,5 +2,6 @@
 
 ```bash
 pnpm install
-pnpm run wiki:dev
+pnpm dev
+open http://localhost:3000/
 ```
