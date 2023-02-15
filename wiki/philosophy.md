@@ -4,5 +4,9 @@ Beeminder works by breaking down your long-term goal and turning it into concret
 
 Further reading:
 
-- [Schelling Fences on Slippery Slopes](https://blog.beeminder.com/schelling/)
-- [Holiday reading: Beeminder's philosophy - Akrasia - Beeminder Forum](https://forum.beeminder.com/t/holiday-reading-beeminders-philosophy/7563)
+*   [Schelling Fences on Slippery Slopes][1]
+*   [Holiday reading: Beeminder's philosophy - Akrasia - Beeminder Forum][2]
+
+[1]: https://blog.beeminder.com/schelling/
+
+[2]: https://forum.beeminder.com/t/holiday-reading-beeminders-philosophy/7563
