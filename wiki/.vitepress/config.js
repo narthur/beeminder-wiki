@@ -5,7 +5,7 @@ export default defineConfig({
   description: "Community-maintained wiki for Beeminder",
   markdown: {
     toc: {
-      pattern: /^TOCPLACEHOLDER$/,
+      pattern: /TOCPLACEHOLDER/,
     },
   },
   themeConfig: {
