@@ -3,11 +3,6 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   title: "Beeminder Wiki",
   description: "Community-maintained wiki for Beeminder",
-  markdown: {
-    toc: {
-      pattern: /TOCPLACEHOLDER/,
-    },
-  },
   themeConfig: {
     logo: "beeminder.png",
     editLink: {
