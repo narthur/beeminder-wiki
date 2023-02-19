@@ -8,14 +8,13 @@
     "preinstall": "npx only-allow pnpm",
     "dev": "vitepress dev wiki",
     "build": "vitepress build wiki",
-    "serve": "vitepress serve wiki",
+    "serve": "vitepress serve wiki --port 8080",
     "format": "remark . --no-stdout --output"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@agentofuser/remark-oembed": "^1.0.4",
     "remark-cli": "^11.0.0",
     "remark-renumber-references": "^1.0.5",
     "remark-toc": "^8.0.1",
