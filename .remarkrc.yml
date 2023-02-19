@@ -1,3 +1,4 @@
 plugins:
   - renumber-references
   - toc
+  - oembed
