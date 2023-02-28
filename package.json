@@ -9,13 +9,15 @@
     "dev": "vitepress dev wiki",
     "build": "vitepress build wiki",
     "serve": "vitepress serve wiki --port 8080",
-    "format": "remark . --no-stdout --output"
+    "format": "remark . --no-stdout --output",
+    "lint": "remark . --use remark-lint-no-dead-urls --frail"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "remark-cli": "^11.0.0",
+    "remark-lint-no-dead-urls": "^1.1.0",
     "remark-renumber-references": "^1.0.5",
     "remark-toc": "^8.0.1",
     "vitepress": "1.0.0-alpha.4",

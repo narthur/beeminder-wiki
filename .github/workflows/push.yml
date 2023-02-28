@@ -1,12 +1,10 @@
-name: Deploy
+name: Push
 on:
   push:
-    branches:
-      - master
 env:
   NODE_VERSION: 16.15.0
 jobs:
-  deploy:
+  lint:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -20,12 +18,5 @@ jobs:
           cache: "pnpm"
       - name: Install
         run: pnpm install
-      - name: Format
-        run: pnpm run format
-      - name: Build
-        run: pnpm run build
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: wiki/.vitepress/dist
+      - name: Lint
+        run: pnpm run lint
