@@ -3,18 +3,11 @@
 *   [**How to post to a Beeminder goal with a Google Form**][1]
 *   [**How to create a Beeminder BitBar plugin for Mac**][2]
 
-## Beeminding RSS Feeds
+## Beeminding RSS Feeds with Integromat
 
-Beeminder doesn't currently have an official RSS integration, but there are some tools you can use to beemind RSS feeds right now.
+Beeminder has [an official RSS integration][9]. However, it's limited to a single RSS feed, and it doesn't allow you to customize the datapoint value or comment. If you want to beemind multiple RSS feeds, or if you want to customize the datapoint value or comment, you can use Integromat to create a custom RSS integration.
 
-*   [Integromat][3] using the [RSS][4] and [Beeminder][5] integrations.
-*   Tasker
-*   Android Automate
-*   [URLminder][6]
-*   IFTTT
-*   The Beeminder API
-
-### Integromat
+Below are instructions for creating a simple custom RSS integration with Integromat. Once you have the basic flow set up, you can customize it to meet your needs.
 
 *   If you haven't already, create a Beeminder goal to track RSS posts.
 *   Once you have your goal created, log into [Integromat][3]
@@ -72,3 +65,5 @@ You're done! This flow will now check every 15 minutes for new items in the RSS 
 [7]: https://www.beeminder.com/api/v1/auth_token.json
 
 [8]: https://github.com/narthur/focus.sh/blob/main/focus.sh
+
+[9]: https://www.beeminder.com/rssminder
