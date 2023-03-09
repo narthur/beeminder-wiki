@@ -5,12 +5,12 @@
 
 ## Beeminding RSS Feeds with Integromat
 
-Beeminder has [an official RSS integration][9]. However, it's limited to a single RSS feed, and it doesn't allow you to customize the datapoint value or comment. If you want to beemind multiple RSS feeds, or if you want to customize the datapoint value or comment, you can use Integromat to create a custom RSS integration.
+Beeminder has [an official RSS integration][3]. However, it's limited to a single RSS feed, and it doesn't allow you to customize the datapoint value or comment. If you want to beemind multiple RSS feeds, or if you want to customize the datapoint value or comment, you can use Integromat to create a custom RSS integration.
 
 Below are instructions for creating a simple custom RSS integration with Integromat. Once you have the basic flow set up, you can customize it to meet your needs.
 
 *   If you haven't already, create a Beeminder goal to track RSS posts.
-*   Once you have your goal created, log into [Integromat][3]
+*   Once you have your goal created, log into [Integromat][4]
 *   Click on "Scenarios" in the left sidebar
 *   Click the plus button in the top-right of the scenarios page to create a new scenario
 *   You should be taken to a page that says "What services do you want to integrate?"
@@ -26,7 +26,7 @@ Below are instructions for creating a simple custom RSS integration with Integro
 *   This time select "Beeminder" from the menu that appears.
 *   Select "Create a Datapoint."
 *   If you haven't already connected Beeminder to your Integromat account, click the "Add" button next to the "Connection" field.
-*   A new dialog will appear requesting your Beeminder auth token. Copy your auth token [from this url][7] into the auth token field in Integromat.
+*   A new dialog will appear requesting your Beeminder auth token. Copy your auth token [from this url][5] into the auth token field in Integromat.
 *   Click "Continue."
 *   If the connection was successful, addition fields should appear underneath the "Connection" field.
 *   Select your desired goal in the "Goal" field.
@@ -48,22 +48,16 @@ You're done! This flow will now check every 15 minutes for new items in the RSS 
 *   Beeminding contributions to the Beeminder forum, or any other Discourse forum
 *   Links to tutorials in the forum and blog
 *   How to beemind Wakatime
-*   How to beemind focus sessions with HeyFocus, reproducing a bare-bones version of Narthur's [focus.sh][8] script
+*   How to beemind focus sessions with HeyFocus, reproducing a bare-bones version of Narthur's [focus.sh][6] script
 
 [1]: https://forum.beeminder.com/t/how-to-post-to-a-beeminder-goal-with-a-google-form/7746
 
 [2]: https://forum.beeminder.com/t/how-to-create-a-beeminder-bitbar-plugin-for-mac/7762
 
-[3]: https://www.integromat.com/en/
+[3]: https://www.beeminder.com/rssminder
 
-[4]: https://www.integromat.com/en/integrations/rss
+[4]: https://www.integromat.com/en/
 
-[5]: https://www.integromat.com/en/integrations/beeminder
+[5]: https://www.beeminder.com/api/v1/auth_token.json
 
-[6]: https://help.beeminder.com/article/88-urlminder
-
-[7]: https://www.beeminder.com/api/v1/auth_token.json
-
-[8]: https://github.com/narthur/focus.sh/blob/main/focus.sh
-
-[9]: https://www.beeminder.com/rssminder
+[6]: https://github.com/narthur/focus.sh/blob/main/focus.sh
