@@ -10,7 +10,7 @@
     "build": "vitepress build wiki",
     "serve": "vitepress serve wiki --port 8080",
     "format": "remark . --no-stdout --output",
-    "lint": "remark . --use remark-lint-no-dead-urls --frail"
+    "lint": "remark . --rc-path ./.remarkrc.lint.yml --frail"
   },
   "keywords": [],
   "author": "",
