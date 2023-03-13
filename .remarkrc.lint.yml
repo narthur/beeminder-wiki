@@ -1,3 +1,4 @@
+# https://unifiedjs.com/explore/package/remark-cli/#example-config-files-json-yaml-js
 plugins:
   - - remark-lint-no-dead-urls
     - skipUrlPatterns:
