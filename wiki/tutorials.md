@@ -3,14 +3,14 @@
 *   [**How to post to a Beeminder goal with a Google Form**][1]
 *   [**How to create a Beeminder BitBar plugin for Mac**][2]
 
-## Beeminding RSS Feeds with Integromat
+## Beeminding RSS Feeds with Make.com
 
-Beeminder has [an official RSS integration][3]. However, it's limited to a single RSS feed, and it doesn't allow you to customize the datapoint value or comment. If you want to beemind multiple RSS feeds, or if you want to customize the datapoint value or comment, you can use Integromat to create a custom RSS integration.
+Beeminder has [an official RSS integration][3]. However, it's limited to a single RSS feed, and it doesn't allow you to customize the datapoint value or comment. If you want to beemind multiple RSS feeds, or if you want to customize the datapoint value or comment, you can use Make.com to create a custom RSS integration.
 
-Below are instructions for creating a simple custom RSS integration with Integromat. Once you have the basic flow set up, you can customize it to meet your needs.
+Below are instructions for creating a simple custom RSS integration with Make.com. Once you have the basic flow set up, you can customize it to meet your needs.
 
 *   If you haven't already, create a Beeminder goal to track RSS posts.
-*   Once you have your goal created, log into [Integromat][4]
+*   Once you have your goal created, log into [Make.com][4]
 *   Click on "Scenarios" in the left sidebar
 *   Click the plus button in the top-right of the scenarios page to create a new scenario
 *   You should be taken to a page that says "What services do you want to integrate?"
@@ -25,8 +25,8 @@ Below are instructions for creating a simple custom RSS integration with Integro
 *   Click the bump on the right side of the RSS module to add a new module.
 *   This time select "Beeminder" from the menu that appears.
 *   Select "Create a Datapoint."
-*   If you haven't already connected Beeminder to your Integromat account, click the "Add" button next to the "Connection" field.
-*   A new dialog will appear requesting your Beeminder auth token. Copy your auth token [from this url][5] into the auth token field in Integromat.
+*   If you haven't already connected Beeminder to your Make.com account, click the "Add" button next to the "Connection" field.
+*   A new dialog will appear requesting your Beeminder auth token. Copy your auth token [from this url][5] into the auth token field in Make.com.
 *   Click "Continue."
 *   If the connection was successful, addition fields should appear underneath the "Connection" field.
 *   Select your desired goal in the "Goal" field.
@@ -56,7 +56,7 @@ You're done! This flow will now check every 15 minutes for new items in the RSS 
 
 [3]: https://www.beeminder.com/rssminder
 
-[4]: https://www.integromat.com/en/
+[4]: https://www.make.com/en
 
 [5]: https://www.beeminder.com/api/v1/auth_token.json
 
