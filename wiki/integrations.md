@@ -7,66 +7,51 @@ See also: [Extending Beeminder][3]
 
 ## Table of Contents
 
-*   [Meta](#meta)
-
-    *   [Beeminder](#beeminder)
-    *   [Tools to create arbitrary integrations](#tools-to-create-arbitrary-integrations)
-
-*   [Interfaces for Beeminder](#interfaces-for-beeminder)
-
-    *   [Bots](#bots)
-    *   [Command Line](#command-line)
-    *   [Calendars, Task managers](#calendars-task-managers)
-    *   [Desktop](#desktop)
-    *   [Gadgets, Buttons, DIY](#gadgets-buttons-diy)
-    *   [Libraries](#libraries)
-    *   [Mobile Apps](#mobile-apps)
-    *   [Web](#web)
-
-*   [Learning, Training, Improving, Doing](#learning-training-improving-doing)
-
-    *   [Flash Cards (see also: Languages)](#flash-cards-see-also-languages)
-
-        *   [Anki](#anki)
-        *   [Quizlet](#quizlet)
-
-    *   [Coding](#coding)
-
-    *   [Languages](#languages)
-
-    *   [Religion and Spiritual](#religion-and-spiritual)
-
-    *   [Typing](#typing)
-
-    *   [Writing](#writing)
-
-*   [Social Media and Communities](#social-media-and-communities)
-
-*   [Productivity, Work](#productivity-work)
-
-    *   [Email](#email)
-    *   [Note Taking, Project Planning](#note-taking-project-planning)
-    *   [Time Tracking](#time-tracking)
-    *   [Task Managers, ToDo-Lists](#task-managers-todo-lists)
-
-*   [Reading, Bookmarking](#reading-bookmarking)
-
-*   [Health & Sports](#health--sports)
-
-    *   [Activity etc.](#activity-etc)
-    *   [Boating, Rafting etc.](#boating-rafting-etc)
-    *   [Cycling, Biking](#cycling-biking)
-    *   [Diet](#diet)
-    *   [Gym and Co.](#gym-and-co)
-    *   [Meditation](#meditation)
-    *   [Other sports](#other-sports)
-    *   [Sleep](#sleep)
-    *   [Steps](#steps)
-    *   [Swimming](#swimming)
-    *   [Walking/Running etc.](#walkingrunning-etc)
-    *   [Skating](#skating)
-    *   [Skiing and other Snow sports](#skiing-and-other-snow-sports)
-    *   [Weight](#weight)
+- [Integrations](#integrations)
+  - [Table of Contents](#table-of-contents)
+  - [Meta](#meta)
+    - [Beeminder](#beeminder)
+    - [Tools to create arbitrary integrations](#tools-to-create-arbitrary-integrations)
+  - [Interfaces for Beeminder](#interfaces-for-beeminder)
+    - [Bots](#bots)
+    - [Command Line](#command-line)
+    - [Calendars, Task managers](#calendars-task-managers)
+    - [Desktop](#desktop)
+    - [Gadgets, Buttons, DIY](#gadgets-buttons-diy)
+    - [Libraries](#libraries)
+    - [Mobile Apps](#mobile-apps)
+    - [Web](#web)
+  - [Learning, Training, Improving, Doing](#learning-training-improving-doing)
+    - [Flash Cards (see also: Languages)](#flash-cards-see-also-languages)
+      - [Anki](#anki)
+      - [Quizlet](#quizlet)
+    - [Coding](#coding)
+    - [Languages](#languages)
+    - [Religion and Spiritual](#religion-and-spiritual)
+    - [Typing](#typing)
+    - [Writing](#writing)
+  - [Social Media and Communities](#social-media-and-communities)
+  - [Productivity, Work](#productivity-work)
+    - [Email](#email)
+    - [Note Taking, Project Planning](#note-taking-project-planning)
+    - [Time Tracking](#time-tracking)
+    - [Task Managers, ToDo-Lists](#task-managers-todo-lists)
+  - [Reading, Bookmarking](#reading-bookmarking)
+  - [Health \& Sports](#health--sports)
+    - [Activity etc.](#activity-etc)
+    - [Boating, Rafting etc.](#boating-rafting-etc)
+    - [Cycling, Biking](#cycling-biking)
+    - [Diet](#diet)
+    - [Gym and Co.](#gym-and-co)
+    - [Meditation](#meditation)
+    - [Other sports](#other-sports)
+    - [Sleep](#sleep)
+    - [Steps](#steps)
+    - [Swimming](#swimming)
+    - [Walking/Running etc.](#walkingrunning-etc)
+    - [Skating](#skating)
+    - [Skiing and other Snow sports](#skiing-and-other-snow-sports)
+    - [Weight](#weight)
 
 ## Meta
 
@@ -212,7 +197,6 @@ P. S.: Searching for the topics [beeminder][60] or
 ### Writing
 
 *   750words - See [this thread][122]
-*   [Draft][123] - Number of edited words - [official][51]
 *   URLMinder - count Words - [official][51]
 
 ## Social Media and Communities
@@ -616,8 +600,6 @@ NOTE: Nectar is currently not active, see [this post][124] for details. The proj
 [121]: https://blog.beeminder.com/rosary/
 
 [122]: https://forum.beeminder.com/t/beeminding-750words/4882
-
-[123]: https://draftin.com
 
 [124]: https://forum.beeminder.com/t/new-mobile-app-android-ios-windows-plus-7-new-integrations/3421/31
 
