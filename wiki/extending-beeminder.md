@@ -26,12 +26,12 @@ Thanks to @philip for granting permission to duplicate the content in his [API C
 ### User Styles
 
 *   [**Beeminder Dashboard Dense**][11] - User style that makes
-    the dashbord much denser. Made by @narthur. [Mirror][12].
+    the dashbord much denser. Made by @narthur.
 *   [**FreeStyler.WS**][13] - "FreeStyler has everything you might need to style up websites you visit according to your taste."
-*   [**Hide Beeminder Dash Graphs**][14] - User style that hides the graph thumbnails on the dashboard. Made by @narthur. [Mirror][15].
+*   [**Hide Beeminder Dash Graphs**][14] - User style that hides the graph thumbnails on the dashboard. Made by @narthur.
 *   [**r/userstyles**][16] - Reddit community around the creation and use of user styles.
 *   [**StyleBase**][17] - "Collectino of UserCSS Styles"
-*   [**Stylish**][18] - This website [can be very slow][19]. [This mirror][20] is often an easier way to access the site's content.
+*   [**Stylish**][18] - This website [can be very slow][19].
 *   [**Stylus**][21] - "Stylus is a fork of Stylish for Chrome, also compatible with Firefox as a WebExtension"
 
 ## Hardware
@@ -132,13 +132,9 @@ Beeminder users use the API to create all sorts of things! Below is only a small
 
 [11]: https://userstyles.org/styles/174385/beeminder-dashboard-dense?utm_campaign=stylish_stylepage
 
-[12]: https://33kk.github.io/uso-archive/?null=&search=beeminder&style=174385
-
 [13]: https://freestyler.ws/
 
 [14]: https://userstyles.org/styles/173240/hide-beeminder-dash-graphs
-
-[15]: https://33kk.github.io/uso-archive/?null=&search=beeminder&style=173240
 
 [16]: https://www.reddit.com/r/userstyles/
 
@@ -147,8 +143,6 @@ Beeminder users use the API to create all sorts of things! Below is only a small
 [18]: https://userstyles.org/
 
 [19]: https://www.reddit.com/r/userstyles/comments/hcndfo/userstylesorg_is_ridiculously_slow_often_timing/
-
-[20]: https://33kk.github.io/uso-archive/
 
 [21]: https://github.com/openstyles/stylus
 
