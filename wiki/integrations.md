@@ -135,7 +135,6 @@ P. S.: Searching for the topics [beeminder][60] or
 *   Android - [Beedroid][83] - official Beeminder app for Android
 *   Android - GTBeedroid - I'm not sure any of this is working right now; [@yixler's repo][84] and [@zedmango's fork][85], see [@yixler's thread][86] and [@zedmango's more recent thread][87]
 *   iOS - [Beeminder iOS][88] - official iOS-App by @apb and others (replaces [beemios][89]) - Link to [BeeSwift-Github Repo][90]
-*   iOS - [GTBee][91] - official; get charged, when you don't do your tasks; see [this Blog post][92] and [this Blog post][93]
 *   iOS - Shortcuts - see [this thread][94]
 
 ### Web
@@ -536,10 +535,6 @@ NOTE: Nectar is currently not active, see [this post][124] for details. The proj
 [89]: https://github.com/beeminder/beemios
 
 [90]: https://github.com/beeminder/BeeSwift
-
-[91]: https://itunes.apple.com/us/app/gtbee/id779525180?mt=8
-
-[92]: https://blog.beeminder.com/gtbee/
 
 [93]: https://blog.beeminder.com/apple/
 
