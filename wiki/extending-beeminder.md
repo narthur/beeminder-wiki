@@ -87,10 +87,6 @@ Beeminder users use the API to create all sorts of things! Below is only a small
 
 *   [mbork/**beeminder.el**][33] - A Beeminder client for Emacs
 
-#### Mathematica
-
-*   [dehowell/**beeminder-mathematica**][56] - Mathematica 12 friendly wrapper for Beeminder API
-
 #### Perl
 
 *   [pjjh/**bmndr**][57], @philip's fork of lydgate/bmndr
@@ -213,8 +209,6 @@ Beeminder users use the API to create all sorts of things! Below is only a small
 [54]: https://forum.beeminder.com/t/beeminder-mathematica-package/7385/12
 
 [55]: https://github.com/Sodaware/beeminder.el
-
-[56]: https://github.com/dehowell/beeminder-mathematica
 
 [57]: https://github.com/pjjh/bmndr
 
