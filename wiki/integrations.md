@@ -7,51 +7,66 @@ See also: [Extending Beeminder][3]
 
 ## Table of Contents
 
-- [Integrations](#integrations)
-  - [Table of Contents](#table-of-contents)
-  - [Meta](#meta)
-    - [Beeminder](#beeminder)
-    - [Tools to create arbitrary integrations](#tools-to-create-arbitrary-integrations)
-  - [Interfaces for Beeminder](#interfaces-for-beeminder)
-    - [Bots](#bots)
-    - [Command Line](#command-line)
-    - [Calendars, Task managers](#calendars-task-managers)
-    - [Desktop](#desktop)
-    - [Gadgets, Buttons, DIY](#gadgets-buttons-diy)
-    - [Libraries](#libraries)
-    - [Mobile Apps](#mobile-apps)
-    - [Web](#web)
-  - [Learning, Training, Improving, Doing](#learning-training-improving-doing)
-    - [Flash Cards (see also: Languages)](#flash-cards-see-also-languages)
-      - [Anki](#anki)
-      - [Quizlet](#quizlet)
-    - [Coding](#coding)
-    - [Languages](#languages)
-    - [Religion and Spiritual](#religion-and-spiritual)
-    - [Typing](#typing)
-    - [Writing](#writing)
-  - [Social Media and Communities](#social-media-and-communities)
-  - [Productivity, Work](#productivity-work)
-    - [Email](#email)
-    - [Note Taking, Project Planning](#note-taking-project-planning)
-    - [Time Tracking](#time-tracking)
-    - [Task Managers, ToDo-Lists](#task-managers-todo-lists)
-  - [Reading, Bookmarking](#reading-bookmarking)
-  - [Health \& Sports](#health--sports)
-    - [Activity etc.](#activity-etc)
-    - [Boating, Rafting etc.](#boating-rafting-etc)
-    - [Cycling, Biking](#cycling-biking)
-    - [Diet](#diet)
-    - [Gym and Co.](#gym-and-co)
-    - [Meditation](#meditation)
-    - [Other sports](#other-sports)
-    - [Sleep](#sleep)
-    - [Steps](#steps)
-    - [Swimming](#swimming)
-    - [Walking/Running etc.](#walkingrunning-etc)
-    - [Skating](#skating)
-    - [Skiing and other Snow sports](#skiing-and-other-snow-sports)
-    - [Weight](#weight)
+*   [Meta](#meta)
+
+    *   [Beeminder](#beeminder)
+    *   [Tools to create arbitrary integrations](#tools-to-create-arbitrary-integrations)
+
+*   [Interfaces for Beeminder](#interfaces-for-beeminder)
+
+    *   [Bots](#bots)
+    *   [Command Line](#command-line)
+    *   [Calendars, Task managers](#calendars-task-managers)
+    *   [Desktop](#desktop)
+    *   [Gadgets, Buttons, DIY](#gadgets-buttons-diy)
+    *   [Libraries](#libraries)
+    *   [Mobile Apps](#mobile-apps)
+    *   [Web](#web)
+
+*   [Learning, Training, Improving, Doing](#learning-training-improving-doing)
+
+    *   [Flash Cards (see also: Languages)](#flash-cards-see-also-languages)
+
+        *   [Anki](#anki)
+        *   [Quizlet](#quizlet)
+
+    *   [Coding](#coding)
+
+    *   [Languages](#languages)
+
+    *   [Religion and Spiritual](#religion-and-spiritual)
+
+    *   [Typing](#typing)
+
+    *   [Writing](#writing)
+
+*   [Social Media and Communities](#social-media-and-communities)
+
+*   [Productivity, Work](#productivity-work)
+
+    *   [Email](#email)
+    *   [Note Taking, Project Planning](#note-taking-project-planning)
+    *   [Time Tracking](#time-tracking)
+    *   [Task Managers, ToDo-Lists](#task-managers-todo-lists)
+
+*   [Reading, Bookmarking](#reading-bookmarking)
+
+*   [Health & Sports](#health--sports)
+
+    *   [Activity etc.](#activity-etc)
+    *   [Boating, Rafting etc.](#boating-rafting-etc)
+    *   [Cycling, Biking](#cycling-biking)
+    *   [Diet](#diet)
+    *   [Gym and Co.](#gym-and-co)
+    *   [Meditation](#meditation)
+    *   [Other sports](#other-sports)
+    *   [Sleep](#sleep)
+    *   [Steps](#steps)
+    *   [Swimming](#swimming)
+    *   [Walking/Running etc.](#walkingrunning-etc)
+    *   [Skating](#skating)
+    *   [Skiing and other Snow sports](#skiing-and-other-snow-sports)
+    *   [Weight](#weight)
 
 ## Meta
 
@@ -135,20 +150,20 @@ P. S.: Searching for the topics [beeminder][60] or
 *   Android - [Beedroid][83] - official Beeminder app for Android
 *   Android - GTBeedroid - I'm not sure any of this is working right now; [@yixler's repo][84] and [@zedmango's fork][85], see [@yixler's thread][86] and [@zedmango's more recent thread][87]
 *   iOS - [Beeminder iOS][88] - official iOS-App by @apb and others (replaces [beemios][89]) - Link to [BeeSwift-Github Repo][90]
-*   iOS - Shortcuts - see [this thread][94]
+*   iOS - Shortcuts - see [this thread][91]
 
 ### Web
 
-*   [Beeminder Autodialer][95] - by @narthur. "The Beeminder autodialer will automatically adjust the rate on your goals based on your historical performance."
-*   [Beeminder Panel][96] - by @narthur. An experimental web dashboard alernative to the Beeminder web app.
-*   [Beescheduler][97] - by [@enolan][98]. "Beescheduler lets you schedule different rates for your Beeminder goals based on the days of the week. I wrote it so I could focus on one project Monday - Wednesday and different ones on Thursday and Friday. This is much better than doing a tiny amount on all of them every day." [Forum announcmenet.][99]
-*   [chipmanaged/MCM-Dashboard][100] - by @mary, includes an autodial feature and
-    umbrella goals feature, see [this thread][101]
-*   [Altbee][102] - "an alternative web interface for Beeminder."
-    [Announcement thread][103].
-    [Source code][104].
-*   [beeminder-to-sqlite][105] - by [Ben Congdon][106], meant for viewing your Beeminder data in [Datasette][107].
-*   [BUI][108] - "an alternative web interface for Beeminder but with more charts". [Source code][109]. [Announcement thread][110]
+*   [Beeminder Autodialer][92] - by @narthur. "The Beeminder autodialer will automatically adjust the rate on your goals based on your historical performance."
+*   [Beeminder Panel][93] - by @narthur. An experimental web dashboard alernative to the Beeminder web app.
+*   [Beescheduler][94] - by [@enolan][95]. "Beescheduler lets you schedule different rates for your Beeminder goals based on the days of the week. I wrote it so I could focus on one project Monday - Wednesday and different ones on Thursday and Friday. This is much better than doing a tiny amount on all of them every day." [Forum announcmenet.][96]
+*   [chipmanaged/MCM-Dashboard][97] - by @mary, includes an autodial feature and
+    umbrella goals feature, see [this thread][98]
+*   [Altbee][99] - "an alternative web interface for Beeminder."
+    [Announcement thread][100].
+    [Source code][101].
+*   [beeminder-to-sqlite][102] - by [Ben Congdon][103], meant for viewing your Beeminder data in [Datasette][104].
+*   [BUI][105] - "an alternative web interface for Beeminder but with more charts". [Source code][106]. [Announcement thread][107]
 
 ## Learning, Training, Improving, Doing
 
@@ -156,9 +171,9 @@ P. S.: Searching for the topics [beeminder][60] or
 
 #### Anki
 
-*   Number of cards currently not due - [as an Anki extension][111], see also [this thread][112] - by @bluetulip
-*   Time spent reviewing or number of cards reviewed - [as another Anki extension][113] - see also [this thread][114] - by @ianminds. Seems not to support the latest versions of Anki.
-*   Time spent reviewing or number of cards reviewed - [as a newer Anki extension][115]. May not work with latest versions of Anki. See also [this thread][116].
+*   Number of cards currently not due - [as an Anki extension][108], see also [this thread][109] - by @bluetulip
+*   Time spent reviewing or number of cards reviewed - [as another Anki extension][110] - see also [this thread][111] - by @ianminds. Seems not to support the latest versions of Anki.
+*   Time spent reviewing or number of cards reviewed - [as a newer Anki extension][112]. May not work with latest versions of Anki. See also [this thread][113].
 
 #### Quizlet
 
@@ -167,27 +182,27 @@ P. S.: Searching for the topics [beeminder][60] or
 
 ### Coding
 
-*   Codecademy - Points - [through Akrasia][117]
-*   Codewars - Completed Code Challenges (Kata) - [through Akrasia][117]
-*   FreeCodeCamp - [see this thread][118]
+*   Codecademy - Points - [through Akrasia][114]
+*   Codewars - Completed Code Challenges (Kata) - [through Akrasia][114]
+*   FreeCodeCamp - [see this thread][115]
 *   GitHub - Commits - [official][51]
 *   GitHub - Issues Closed - [official][51]
 *   GitHub - Any GitHub Event - [via multigitminder GitHub Action][55]
-*   Leetcode - Problems Solved - [through Akrasia][117]
-*   Project Euler - Problems Solved - [through Akrasia][117]
+*   Leetcode - Problems Solved - [through Akrasia][114]
+*   Project Euler - Problems Solved - [through Akrasia][114]
 
 ### Languages
 
-*   Memrise - Points - [through Akrasia][117]
-*   Memrise - Words Learned - [through Akrasia][117]
+*   Memrise - Points - [through Akrasia][114]
+*   Memrise - Words Learned - [through Akrasia][114]
 *   Clozemaster - Points - [official][51]
 *   Duolingo - Points - [official][51]
 *   Skritter - Hours learning Chinese/Japanese - [official][51]
-*   WaniKani - see [this thread][119] by @bluetulip
+*   WaniKani - see [this thread][116] by @bluetulip
 
 ### Religion and Spiritual
 
-*   [Electronic Rosary][120] - see [this blog post][121]
+*   [Electronic Rosary][117] - see [this blog post][118]
 
 ### Typing
 
@@ -195,14 +210,14 @@ P. S.: Searching for the topics [beeminder][60] or
 
 ### Writing
 
-*   750words - See [this thread][122]
+*   750words - See [this thread][119]
 *   URLMinder - count Words - [official][51]
 
 ## Social Media and Communities
 
-NOTE: Nectar is currently not active, see [this post][124] for details. The project is [open-source][125] if you'd like to self-host a version.
+NOTE: Nectar is currently not active, see [this post][120] for details. The project is [open-source][121] if you'd like to self-host a version.
 
-*   Instagram, Facebook, etc. - through Nectar; see [this thread][126], specifically [this response][127]; also note: "these integrations are for testing only and should not be used in Beeminder goals where money is at stake"; it might be easier to use IFTTT or Zapier if possible (see above)
+*   Instagram, Facebook, etc. - through Nectar; see [this thread][122], specifically [this response][123]; also note: "these integrations are for testing only and should not be used in Beeminder goals where money is at stake"; it might be easier to use IFTTT or Zapier if possible (see above)
 
 ## Productivity, Work
 
@@ -212,35 +227,35 @@ NOTE: Nectar is currently not active, see [this post][124] for details. The proj
 
 ### Note Taking, Project Planning
 
-*   Evernote - Inbox Zero - through [beEvernoteZero][128]
+*   Evernote - Inbox Zero - through [beEvernoteZero][124]
 
 ### Time Tracking
 
 *   Rescue Time - at least/at most Time spend - [official][51]
-*   Strict Workflow - see [this thread][129] and [GitHub Repo][130], note that this is a fork of the original Chrome-Extension
-*   TagTime - [GitHub Repo][131], see also [this forum category][132]
+*   Strict Workflow - see [this thread][125] and [GitHub Repo][126], note that this is a fork of the original Chrome-Extension
+*   TagTime - [GitHub Repo][127], see also [this forum category][128]
 *   Toggl - average Time spend on Project/Tag/Client - [official][51]
 
 ### Task Managers, ToDo-Lists
 
-*   [Boss as a Service][133] - Informal integration possible by giving a Beeminder goal URL to your boss, described in [this blog post][134]
-*   Commits.to - by @yebyenw see [this thread][135] and the
-    [GitHub repo][136]
+*   [Boss as a Service][129] - Informal integration possible by giving a Beeminder goal URL to your boss, described in [this blog post][130]
+*   Commits.to - by @yebyenw see [this thread][131] and the
+    [GitHub repo][132]
 *   Complice - [by Complice][67],
-    [go here for examples and support][137]
+    [go here for examples and support][133]
 *   Habitica - To-Dos and/or Dailies - [official][51]
-*   Omnifocus - number of items in your OmniFocus Inbox - [through omniminder][138];
-    see also [this thread][139]
-*   Omnifocus - number of projects that are due for review - [through omniminder][138];
-    see also [this thread][139]
-*   Omnifocus - tasks completed in the last 48 hours - [through omniminder][138]; see
-    also [this thread][139]
-*   [TaskRatchet][140] - by @narthur. Stake money on completing one-off tasks by deadlines. Integrates
-    with Beeminder. [Announcement post][141].
-    [Official integration page][142].
-    [Integration docs][143].
+*   Omnifocus - number of items in your OmniFocus Inbox - [through omniminder][134];
+    see also [this thread][135]
+*   Omnifocus - number of projects that are due for review - [through omniminder][134];
+    see also [this thread][135]
+*   Omnifocus - tasks completed in the last 48 hours - [through omniminder][134]; see
+    also [this thread][135]
+*   [TaskRatchet][136] - by @narthur. Stake money on completing one-off tasks by deadlines. Integrates
+    with Beeminder. [Announcement post][137].
+    [Official integration page][138].
+    [Integration docs][139].
 *   Taskwarrior - by @openmedi :nerd\_face: see
-    [this thread][144] \[broken GitHub link]
+    [this thread][140] \[broken GitHub link]
 *   ToDoIst - Todos - [official][51]
 *   Trello - Card average age - [through Beemind.me][49]
 *   Trello - Cards backlog - [through Beemind.me][49]
@@ -250,7 +265,7 @@ NOTE: Nectar is currently not active, see [this post][124] for details. The proj
 
 ## Reading, Bookmarking
 
-*   Pinboard - Unread Items Count - [through Akrasia][117]
+*   Pinboard - Unread Items Count - [through Akrasia][114]
 *   Pocket - Article backlog - [through Beemind.me][49]
 *   Pocket - Article words backlog - [through Beemind.me][49]
 *   Pocket - Total word count - [through Beemind.me][49]
@@ -260,12 +275,12 @@ NOTE: Nectar is currently not active, see [this post][124] for details. The proj
 ### Activity etc.
 
 *   Google Fit - Active time - [through Beemind.me][49]
-*   Apple Health - Active / Rest Energy - [official][51], [go here for the announcement][93]
-*   Apple Health - Nike fuel - [official][51], [go here for the announcement][93]
-*   Apple Health - Stand hours - [official][51], [go here for the announcement][93]
+*   Apple Health - Active / Rest Energy - [official][51], [go here for the announcement][141]
+*   Apple Health - Nike fuel - [official][51], [go here for the announcement][141]
+*   Apple Health - Stand hours - [official][51], [go here for the announcement][141]
 *   Fitbit - Active Time - [official][51]
 *   Garmin - Active Time (in Minutes) - [official][51]
-*   Standing Desk Time - see [this thread][145]
+*   Standing Desk Time - see [this thread][142]
 
 ### Boating, Rafting etc.
 
@@ -274,30 +289,30 @@ NOTE: Nectar is currently not active, see [this post][124] for details. The proj
 ### Cycling, Biking
 
 *   Austin Bcycle - [through Beemind.me][49]
-*   Apple Health - Cycling distance - [official][51], [go here for the announcement][93]
+*   Apple Health - Cycling distance - [official][51], [go here for the announcement][141]
 *   Runkeeper - Cycling (miles, kilometers, times, minutes, hours, calories) - [official][51]
 *   Strava - (miles, kilometres, time, number of activities, calories, effort weighted time) of Cycling - [official][51]; can also be combined with other strava activities
 *   Strava - (miles, kilometres, time, number of activities, calories, effort weighted time) of Handcycle - [official][51]; can also be combined with other strava activities
 
 ### Diet
 
-*   Apple Health - Dietary Energy / Protein - [official][51], [go here for the announcement][93]
-*   Apple Health - Water consumed - [official][51], [go here for the announcement][93]
+*   Apple Health - Dietary Energy / Protein - [official][51], [go here for the announcement][141]
+*   Apple Health - Water consumed - [official][51], [go here for the announcement][141]
 *   Fitbit - Total Calories burned / eaten - [official][51]
 *   Fitbit - Water - [official][51]
 *   Fitbit - Net Calories - [official][51]
-*   MyFitnessPal - Total Calories Eaten - [see this thread][146]
+*   MyFitnessPal - Total Calories Eaten - [see this thread][143]
 
 ### Gym and Co.
 
-*   Apple Health - Exercise time - [official][51], [go here for the announcement][93]
+*   Apple Health - Exercise time - [official][51], [go here for the announcement][141]
 *   Google Fit - Strength Training - [through Beemind.me][49]
 *   Strava - (miles, kilometres, time, number of activities, calories, effort weighted time) of Stairs, Yoga, Crossfit, Elliptical, Weight Training, etc. - [official][51]; can also be combined with other strava activities
 
 ### Meditation
 
-*   Apple Health - Mindful minutes - [official][51], [go here for the announcement][93]
-*   InsightTimer.com - see [this thread][147]
+*   Apple Health - Mindful minutes - [official][51], [go here for the announcement][141]
+*   InsightTimer.com - see [this thread][144]
 
 ### Other sports
 
@@ -305,8 +320,8 @@ NOTE: Nectar is currently not active, see [this post][124] for details. The proj
 
 ### Sleep
 
-*   Apple Health - Time in bed - [official][51], [go here for the announcement][93]
-*   Apple Health - Time asleep - [official][51], [go here for the announcement][93]
+*   Apple Health - Time in bed - [official][51], [go here for the announcement][141]
+*   Apple Health - Time asleep - [official][51], [go here for the announcement][141]
 *   Epson - Hours of sleep - [official][51]
 *   Fitbit - Hours of sleep - [official][51]
 *   Garmin - Hours of sleep - [official][51]
@@ -316,7 +331,7 @@ NOTE: Nectar is currently not active, see [this post][124] for details. The proj
 
 ### Steps
 
-*   Apple Health - Steps - [official][51], [go here for the announcement][93]
+*   Apple Health - Steps - [official][51], [go here for the announcement][141]
 *   Epson - Steps - [official][51]
 *   Fitbit - Steps - [official][51]
 *   Garmin - Steps - [official][51]
@@ -325,13 +340,13 @@ NOTE: Nectar is currently not active, see [this post][124] for details. The proj
 
 ### Swimming
 
-*   Apple Health - Swimming strokes / distance - [official][51], [go here for the announcement][93]
+*   Apple Health - Swimming strokes / distance - [official][51], [go here for the announcement][141]
 *   Runkeeper - Swimming (miles, kilometers, times, minutes, hours, calories) - [official][51]
 *   Strava - (miles, kilometres, time, number of activities, calories, effort weighted time) of Swimming - [official][51]; can also be combined with other strava activities
 
 ### Walking/Running etc.
 
-*   Apple Health - Walking/running distance - [official][51], [go here for the announcement][93]
+*   Apple Health - Walking/running distance - [official][51], [go here for the announcement][141]
 *   Epson - Total Distance (Miles or Kilometers) - [official][51]
 *   Epson - Total Time - [official][51]
 *   Fitbit - # of Activities - [official][51]
@@ -351,7 +366,7 @@ NOTE: Nectar is currently not active, see [this post][124] for details. The proj
 
 ### Weight
 
-*   Apple Health - Weight - [official][51], [go here for the announcement][93]
+*   Apple Health - Weight - [official][51], [go here for the announcement][141]
 *   Fitbit - Weight - [official][51]
 *   Fitbit - Body Fat % - [official][51]
 *   Withings - Weight - [official][51]
@@ -536,110 +551,110 @@ NOTE: Nectar is currently not active, see [this post][124] for details. The proj
 
 [90]: https://github.com/beeminder/BeeSwift
 
-[93]: https://blog.beeminder.com/apple/
+[91]: https://forum.beeminder.com/t/ios-is-open-source-again-request-for-feature-bugfix-requests/3620/7
 
-[94]: https://forum.beeminder.com/t/ios-is-open-source-again-request-for-feature-bugfix-requests/3620/7
+[92]: https://autodial.taskratchet.com/
 
-[95]: https://autodial.taskratchet.com/
+[93]: https://bm.taskratchet.com
 
-[96]: https://bm.taskratchet.com
+[94]: https://beescheduler.echonolan.net/
 
-[97]: https://beescheduler.echonolan.net/
+[95]: https://forum.beeminder.com/u/enolan
 
-[98]: https://forum.beeminder.com/u/enolan
+[96]: https://forum.beeminder.com/t/beescheduler-schedule-goals-by-the-day-of-the-week/3237
 
-[99]: https://forum.beeminder.com/t/beescheduler-schedule-goals-by-the-day-of-the-week/3237
+[97]: https://github.com/chipmanaged/MCM-Dashboard
 
-[100]: https://github.com/chipmanaged/MCM-Dashboard
+[98]: http://forum.beeminder.com/t/help-yourself-to-some-api-files/524
 
-[101]: http://forum.beeminder.com/t/help-yourself-to-some-api-files/524
+[99]: https://altbee.aeonc.com/
 
-[102]: https://altbee.aeonc.com/
+[100]: https://forum.beeminder.com/t/altbee-the-alternative-beeminder-web-interface/7315
 
-[103]: https://forum.beeminder.com/t/altbee-the-alternative-beeminder-web-interface/7315
+[101]: https://github.com/quantified-self-tools/altbee
 
-[104]: https://github.com/quantified-self-tools/altbee
+[102]: https://pypi.org/project/beeminder-to-sqlite/
 
-[105]: https://pypi.org/project/beeminder-to-sqlite/
+[103]: https://github.com/bcongdon
 
-[106]: https://github.com/bcongdon
+[104]: https://docs.datasette.io/en/stable/
 
-[107]: https://docs.datasette.io/en/stable/
+[105]: https://bui.interestingprojects.net/
 
-[108]: https://bui.interestingprojects.net/
+[106]: https://github.com/szymonkorytnicki/beeminder-ui
 
-[109]: https://github.com/szymonkorytnicki/beeminder-ui
+[107]: https://forum.beeminder.com/t/bui-the-alternative-beeminder-ui-more-charts/10416
 
-[110]: https://forum.beeminder.com/t/bui-the-alternative-beeminder-ui-more-charts/10416
+[108]: https://ankiweb.net/shared/info/1928083890
 
-[111]: https://ankiweb.net/shared/info/1928083890
+[109]: https://forum.beeminder.com/t/anki-addon-maintained-progress/5062
 
-[112]: https://forum.beeminder.com/t/anki-addon-maintained-progress/5062
+[110]: https://ankiweb.net/shared/info/1728790823
 
-[113]: https://ankiweb.net/shared/info/1728790823
+[111]: https://forum.beeminder.com/t/announcing-beeminder-for-anki/2206
 
-[114]: https://forum.beeminder.com/t/announcing-beeminder-for-anki/2206
+[112]: https://ankiweb.net/shared/info/1201383547
 
-[115]: https://ankiweb.net/shared/info/1201383547
+[113]: https://forum.beeminder.com/t/anki-addon-to-beemind-cards-count-and-time-spent/7229
 
-[116]: https://forum.beeminder.com/t/anki-addon-to-beemind-cards-count-and-time-spent/7229
+[114]: https://akrasia.on.csu.io/
 
-[117]: https://akrasia.on.csu.io/
+[115]: https://forum.beeminder.com/t/tracking-progress-on-freecodecamp-with-beeminder/4997
 
-[118]: https://forum.beeminder.com/t/tracking-progress-on-freecodecamp-with-beeminder/4997
+[116]: https://forum.beeminder.com/t/wanikani-integration/4403
 
-[119]: https://forum.beeminder.com/t/wanikani-integration/4403
+[117]: https://itunes.apple.com/us/app/iterco/id489906277?mt=8
 
-[120]: https://itunes.apple.com/us/app/iterco/id489906277?mt=8
+[118]: https://blog.beeminder.com/rosary/
 
-[121]: https://blog.beeminder.com/rosary/
+[119]: https://forum.beeminder.com/t/beeminding-750words/4882
 
-[122]: https://forum.beeminder.com/t/beeminding-750words/4882
+[120]: https://forum.beeminder.com/t/new-mobile-app-android-ios-windows-plus-7-new-integrations/3421/31
 
-[124]: https://forum.beeminder.com/t/new-mobile-app-android-ios-windows-plus-7-new-integrations/3421/31
+[121]: https://github.com/beeminder-capstone/Nectar-Backend
 
-[125]: https://github.com/beeminder-capstone/Nectar-Backend
+[122]: https://forum.beeminder.com/t/new-mobile-app-android-ios-windows-plus-7-new-integrations/3421?u=openmedi
 
-[126]: https://forum.beeminder.com/t/new-mobile-app-android-ios-windows-plus-7-new-integrations/3421?u=openmedi
+[123]: https://forum.beeminder.com/t/new-mobile-app-android-ios-windows-plus-7-new-integrations/3421/30?u=openmedi
 
-[127]: https://forum.beeminder.com/t/new-mobile-app-android-ios-windows-plus-7-new-integrations/3421/30?u=openmedi
+[124]: https://github.com/giovannicoppola/beEvernote
 
-[128]: https://github.com/giovannicoppola/beEvernote
+[125]: https://forum.beeminder.com/t/beeminding-pomodoros-with-strict-workflow/443
 
-[129]: https://forum.beeminder.com/t/beeminding-pomodoros-with-strict-workflow/443
+[126]: https://github.com/maggiedelano/Strict-Workflow-Beeminder
 
-[130]: https://github.com/maggiedelano/Strict-Workflow-Beeminder
+[127]: https://github.com/tagtime/TagTime
 
-[131]: https://github.com/tagtime/TagTime
+[128]: https://forum.beeminder.com/c/tagtime
 
-[132]: https://forum.beeminder.com/c/tagtime
+[129]: https://bossasaservice.life/
 
-[133]: https://bossasaservice.life/
+[130]: https://blog.beeminder.com/baas/
 
-[134]: https://blog.beeminder.com/baas/
+[131]: https://forum.beeminder.com/t/simplest-commitbee-open-source/5232
 
-[135]: https://forum.beeminder.com/t/simplest-commitbee-open-source/5232
+[132]: https://github.com/kingdonb/simplest-commitbee
 
-[136]: https://github.com/kingdonb/simplest-commitbee
+[133]: https://forum.beeminder.com/t/suggestions-for-additions-to-the-complice-integration/1945
 
-[137]: https://forum.beeminder.com/t/suggestions-for-additions-to-the-complice-integration/1945
+[134]: https://github.com/dehowell/omniminder
 
-[138]: https://github.com/dehowell/omniminder
+[135]: https://forum.beeminder.com/t/tech-help-beeminding-omnifocus/1631/
 
-[139]: https://forum.beeminder.com/t/tech-help-beeminding-omnifocus/1631/
+[136]: https://taskratchet.com
 
-[140]: https://taskratchet.com
+[137]: https://blog.beeminder.com/taskratchet/
 
-[141]: https://blog.beeminder.com/taskratchet/
+[138]: https://www.beeminder.com/taskratchet
 
-[142]: https://www.beeminder.com/taskratchet
+[139]: https://docs.taskratchet.com/integrations.html
 
-[143]: https://docs.taskratchet.com/integrations.html
+[140]: https://forum.beeminder.com/t/beemind-hooks-a-taskwarrior-integration/5126
 
-[144]: https://forum.beeminder.com/t/beemind-hooks-a-taskwarrior-integration/5126
+[141]: https://blog.beeminder.com/apple/
 
-[145]: https://forum.beeminder.com/t/tracking-standing-desk-time/1832
+[142]: https://forum.beeminder.com/t/tracking-standing-desk-time/1832
 
-[146]: https://forum.beeminder.com/t/a-guide-to-beeminding-myfitnesspal-calories/5113
+[143]: https://forum.beeminder.com/t/a-guide-to-beeminding-myfitnesspal-calories/5113
 
-[147]: https://forum.beeminder.com/t/insighttimer-com-api-python-script-meditation-tracking/1751
+[144]: https://forum.beeminder.com/t/insighttimer-com-api-python-script-meditation-tracking/1751

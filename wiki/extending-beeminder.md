@@ -27,84 +27,84 @@ Thanks to @philip for granting permission to duplicate the content in his [API C
 
 *   [**Beeminder Dashboard Dense**][11] - User style that makes
     the dashbord much denser. Made by @narthur.
-*   [**FreeStyler.WS**][13] - "FreeStyler has everything you might need to style up websites you visit according to your taste."
-*   [**Hide Beeminder Dash Graphs**][14] - User style that hides the graph thumbnails on the dashboard. Made by @narthur.
-*   [**r/userstyles**][16] - Reddit community around the creation and use of user styles.
-*   [**StyleBase**][17] - "Collectino of UserCSS Styles"
-*   [**Stylish**][18] - This website [can be very slow][19].
-*   [**Stylus**][21] - "Stylus is a fork of Stylish for Chrome, also compatible with Firefox as a WebExtension"
+*   [**FreeStyler.WS**][12] - "FreeStyler has everything you might need to style up websites you visit according to your taste."
+*   [**Hide Beeminder Dash Graphs**][13] - User style that hides the graph thumbnails on the dashboard. Made by @narthur.
+*   [**r/userstyles**][14] - Reddit community around the creation and use of user styles.
+*   [**StyleBase**][15] - "Collectino of UserCSS Styles"
+*   [**Stylish**][16] - This website [can be very slow][17].
+*   [**Stylus**][18] - "Stylus is a fork of Stylish for Chrome, also compatible with Firefox as a WebExtension"
 
 ## Hardware
 
-*   [narthur][22]/[**beeminder-traffic-light**][23] - Tutorial. "How to use a Raspberry Pi as a Beeminder traffic light"
+*   [narthur][19]/[**beeminder-traffic-light**][20] - Tutorial. "How to use a Raspberry Pi as a Beeminder traffic light"
 
 ## Scripting
 
-*   [**Beeminder API**][24] - Beeminder's API allows you to integrate
+*   [**Beeminder API**][21] - Beeminder's API allows you to integrate
     Beeminder with your own scripts and programs.
-*   [**How to post to a Beeminder goal with a Google Form**][25] - Tutorial.
+*   [**How to post to a Beeminder goal with a Google Form**][22] - Tutorial.
 
 Note that a project's inclusion below does not mean it is official, tested, or endorsed. Use at your own risk.
 
 ### API Wrappers
 
-*   [beeminder/beeminder-gem][26] - Ruby (@muflax)
-*   [beeminder/beeminder-php-api][27] - PHP (@sodaware)
-*   [beeminder/bee-perl][28] - Perl
-*   [beeminder/wolfminder][29] - Mathematica (@dreev)
-*   [beeminder-capstone/Nectar-Frontend][30] - Angular/Ionic (@nectar)
-*   [malcolmocean/beeminderjs][31] - NodeJS (@malcolm)
-*   [mattjoyce/**beeminderpy**][32] - python wrapper for beeminder api
-*   [mbork/beeminder.el][33] - Emacs (@mbork)
-*   [narthur/**pyminder**][34] - Beeminder library for Python
-*   [bvtujo/**beeminder-openapi**][35] - OpenAPI spec for Beeminder API; can be used with [restish][36] or to generate clients in any supported language. (@are)
+*   [beeminder/beeminder-gem][23] - Ruby (@muflax)
+*   [beeminder/beeminder-php-api][24] - PHP (@sodaware)
+*   [beeminder/bee-perl][25] - Perl
+*   [beeminder/wolfminder][26] - Mathematica (@dreev)
+*   [beeminder-capstone/Nectar-Frontend][27] - Angular/Ionic (@nectar)
+*   [malcolmocean/beeminderjs][28] - NodeJS (@malcolm)
+*   [mattjoyce/**beeminderpy**][29] - python wrapper for beeminder api
+*   [mbork/beeminder.el][30] - Emacs (@mbork)
+*   [narthur/**pyminder**][31] - Beeminder library for Python
+*   [bvtujo/**beeminder-openapi**][32] - OpenAPI spec for Beeminder API; can be used with [restish][33] or to generate clients in any supported language. (@are)
 
 ### Example Projects
 
-Beeminder users use the API to create all sorts of things! Below is only a small sample of the projects that have been published publicly online. [Search GitHub][37] to find more. If you know of a project you think should be added to the list below, [make a pull request with your addition][38].
+Beeminder users use the API to create all sorts of things! Below is only a small sample of the projects that have been published publicly online. [Search GitHub][34] to find more. If you know of a project you think should be added to the list below, [make a pull request with your addition][35].
 
-*   [chipmanaged/MCM-Dashboard][39], including @mary's brilliant [dashboard and autodial][40] features
-*   [giovanni/evernote][41], @giovanni's inbox-zero evernote integration
-*   [beeminder/beebot][42], our Slack bot, by @apb
-*   [beeminder/beemios][43], our  iOS app, by @apb
-*   [palfrey/beeminder-calendar][44], eep days to calendar, by @palfrey
-*   [palfrey/docket][45], synch with Todoist, by @palfrey
-*   [beeminder-capstone/Nectar-Frontend][46], Android, iOS and Windows mobile app, by @nectar (@rnj, @tdulcet and [others][47])
-*   [beeminder-capstone/Nectar-Backend][48], Web app and integration framework, by @nectar (@rnj, @tdulcet and [others][47]), fork of [tsubery/quantifier][49]
-*   [beeminder-capstone/pebble][50], Watchapp for Pebble, by @nectar (@tdulcet)
+*   [chipmanaged/MCM-Dashboard][36], including @mary's brilliant [dashboard and autodial][37] features
+*   [giovanni/evernote][38], @giovanni's inbox-zero evernote integration
+*   [beeminder/beebot][39], our Slack bot, by @apb
+*   [beeminder/beemios][40], our  iOS app, by @apb
+*   [palfrey/beeminder-calendar][41], eep days to calendar, by @palfrey
+*   [palfrey/docket][42], synch with Todoist, by @palfrey
+*   [beeminder-capstone/Nectar-Frontend][43], Android, iOS and Windows mobile app, by @nectar (@rnj, @tdulcet and [others][44])
+*   [beeminder-capstone/Nectar-Backend][45], Web app and integration framework, by @nectar (@rnj, @tdulcet and [others][44]), fork of [tsubery/quantifier][46]
+*   [beeminder-capstone/pebble][47], Watchapp for Pebble, by @nectar (@tdulcet)
 
 #### Elixir
 
-*   [quantified-self-tools/**altbee**][51] - Altbee — the alternative Beeminder web interface
-*   [quantified-self-tools/**bagg**][52] - Beebrain aggregation implementation in Elixir. Computes aggregated data points, [as described here][53]. Also exposed via Altbee's public API, [as described here][54].
-*   [Sodaware/**beeminder.el**][55] - Submit data to Beeminder from within Emacs. Also integrates with org-mode.
+*   [quantified-self-tools/**altbee**][48] - Altbee — the alternative Beeminder web interface
+*   [quantified-self-tools/**bagg**][49] - Beebrain aggregation implementation in Elixir. Computes aggregated data points, [as described here][50]. Also exposed via Altbee's public API, [as described here][51].
+*   [Sodaware/**beeminder.el**][52] - Submit data to Beeminder from within Emacs. Also integrates with org-mode.
 
 #### JavaScript
 
-*   [malcolmocean/**beeminderjs**][31] - NodeJS wrapper for Beeminder API
+*   [malcolmocean/**beeminderjs**][28] - NodeJS wrapper for Beeminder API
 
 #### Lisp
 
-*   [mbork/**beeminder.el**][33] - A Beeminder client for Emacs
+*   [mbork/**beeminder.el**][30] - A Beeminder client for Emacs
 
 #### Perl
 
-*   [pjjh/**bmndr**][57], @philip's fork of lydgate/bmndr
+*   [pjjh/**bmndr**][53], @philip's fork of lydgate/bmndr
 
 #### Python
 
-*   [davecahill/**beesight**][58] - Retrieves meditation data from insighttimer.com and posts the data points to beeminder for tracking.
-*   [ianmcb/**beetime**][59] - Beeminder Anki add-on
-*   [lastobelus/**beeminder-anki**][60] - Anki 2.0 add-on that syncs review stats with Beeminder
-*   [lydgate/**bmndr**][61] - Simple python CLI for beeminder.com
+*   [davecahill/**beesight**][54] - Retrieves meditation data from insighttimer.com and posts the data points to beeminder for tracking.
+*   [ianmcb/**beetime**][55] - Beeminder Anki add-on
+*   [lastobelus/**beeminder-anki**][56] - Anki 2.0 add-on that syncs review stats with Beeminder
+*   [lydgate/**bmndr**][57] - Simple python CLI for beeminder.com
 
 #### Ruby
 
-*   [tsubery/**quantifier**][62] - A quantified-self app that tracks various fitness & productivity metrics.
+*   [tsubery/**quantifier**][58] - A quantified-self app that tracks various fitness & productivity metrics.
 
 #### Scala
 
-*   [phdoerfler/**beegment**][63] - A little webservice to enhance the Beeminder API
+*   [phdoerfler/**beegment**][59] - A little webservice to enhance the Beeminder API
 
 [1]: integrations.md
 
@@ -128,98 +128,98 @@ Beeminder users use the API to create all sorts of things! Below is only a small
 
 [11]: https://userstyles.org/styles/174385/beeminder-dashboard-dense?utm_campaign=stylish_stylepage
 
-[13]: https://freestyler.ws/
+[12]: https://freestyler.ws/
 
-[14]: https://userstyles.org/styles/173240/hide-beeminder-dash-graphs
+[13]: https://userstyles.org/styles/173240/hide-beeminder-dash-graphs
 
-[16]: https://www.reddit.com/r/userstyles/
+[14]: https://www.reddit.com/r/userstyles/
 
-[17]: https://stylebase.cc/
+[15]: https://stylebase.cc/
 
-[18]: https://userstyles.org/
+[16]: https://userstyles.org/
 
-[19]: https://www.reddit.com/r/userstyles/comments/hcndfo/userstylesorg_is_ridiculously_slow_often_timing/
+[17]: https://www.reddit.com/r/userstyles/comments/hcndfo/userstylesorg_is_ridiculously_slow_often_timing/
 
-[21]: https://github.com/openstyles/stylus
+[18]: https://github.com/openstyles/stylus
 
-[22]: https://github.com/narthur
+[19]: https://github.com/narthur
 
-[23]: https://github.com/narthur/beeminder-traffic-light
+[20]: https://github.com/narthur/beeminder-traffic-light
 
-[24]: http://api.beeminder.com/#beeminder-api-reference
+[21]: http://api.beeminder.com/#beeminder-api-reference
 
-[25]: https://forum.beeminder.com/t/how-to-post-to-a-beeminder-goal-with-a-google-form/7746
+[22]: https://forum.beeminder.com/t/how-to-post-to-a-beeminder-goal-with-a-google-form/7746
 
-[26]: https://github.com/beeminder/beeminder-gem
+[23]: https://github.com/beeminder/beeminder-gem
 
-[27]: https://github.com/beeminder/beeminder-php-api
+[24]: https://github.com/beeminder/beeminder-php-api
 
-[28]: https://github.com/beeminder/bee-perl
+[25]: https://github.com/beeminder/bee-perl
 
-[29]: https://github.com/beeminder/wolfminder
+[26]: https://github.com/beeminder/wolfminder
 
-[30]: https://github.com/beeminder-capstone/Nectar-Frontend/blob/develop/src/providers/beeminder-api.ts
+[27]: https://github.com/beeminder-capstone/Nectar-Frontend/blob/develop/src/providers/beeminder-api.ts
 
-[31]: https://github.com/malcolmocean/beeminderjs
+[28]: https://github.com/malcolmocean/beeminderjs
 
-[32]: https://github.com/mattjoyce/beeminderpy
+[29]: https://github.com/mattjoyce/beeminderpy
 
-[33]: https://github.com/mbork/beeminder.el
+[30]: https://github.com/mbork/beeminder.el
 
-[34]: https://github.com/narthur/pyminder
+[31]: https://github.com/narthur/pyminder
 
-[35]: https://github.com/bvtujo/beeminder-openapi
+[32]: https://github.com/bvtujo/beeminder-openapi
 
-[36]: https://rest.sh/#/
+[33]: https://rest.sh/#/
 
-[37]: https://github.com/search?q=beeminder&type=
+[34]: https://github.com/search?q=beeminder&type=
 
-[38]: https://github.com/narthur/beeminder-wiki
+[35]: https://github.com/narthur/beeminder-wiki
 
-[39]: https://github.com/chipmanaged/MCM-Dashboard
+[36]: https://github.com/chipmanaged/MCM-Dashboard
 
-[40]: http://forum.beeminder.com/t/help-yourself-to-some-api-files/524
+[37]: http://forum.beeminder.com/t/help-yourself-to-some-api-files/524
 
-[41]: https://github.com/giovannicoppola/beEvernote
+[38]: https://github.com/giovannicoppola/beEvernote
 
-[42]: https://github.com/beeminder/beebot
+[39]: https://github.com/beeminder/beebot
 
-[43]: https://github.com/beeminder/beemios
+[40]: https://github.com/beeminder/beemios
 
-[44]: https://github.com/palfrey/beeminder-calendar
+[41]: https://github.com/palfrey/beeminder-calendar
 
-[45]: https://github.com/palfrey/docket
+[42]: https://github.com/palfrey/docket
 
-[46]: https://github.com/beeminder-capstone/Nectar-Frontend
+[43]: https://github.com/beeminder-capstone/Nectar-Frontend
 
-[47]: http://forum.beeminder.com/t/new-mobile-app-android-ios-windows-plus-7-new-integrations/3421
+[44]: http://forum.beeminder.com/t/new-mobile-app-android-ios-windows-plus-7-new-integrations/3421
 
-[48]: https://github.com/beeminder-capstone/Nectar-Backend
+[45]: https://github.com/beeminder-capstone/Nectar-Backend
 
-[49]: https://github.com/tsubery/quantifier/
+[46]: https://github.com/tsubery/quantifier/
 
-[50]: https://github.com/beeminder-capstone/pebble
+[47]: https://github.com/beeminder-capstone/pebble
 
-[51]: https://github.com/quantified-self-tools/altbee
+[48]: https://github.com/quantified-self-tools/altbee
 
-[52]: https://github.com/quantified-self-tools/bagg
+[49]: https://github.com/quantified-self-tools/bagg
 
-[53]: https://forum.beeminder.com/t/github-projects-that-use-the-beeminder-api/7497/3?u=narthur
+[50]: https://forum.beeminder.com/t/github-projects-that-use-the-beeminder-api/7497/3?u=narthur
 
-[54]: https://forum.beeminder.com/t/beeminder-mathematica-package/7385/12
+[51]: https://forum.beeminder.com/t/beeminder-mathematica-package/7385/12
 
-[55]: https://github.com/Sodaware/beeminder.el
+[52]: https://github.com/Sodaware/beeminder.el
 
-[57]: https://github.com/pjjh/bmndr
+[53]: https://github.com/pjjh/bmndr
 
-[58]: https://github.com/davecahill/beesight
+[54]: https://github.com/davecahill/beesight
 
-[59]: https://github.com/ianmcb/beetime
+[55]: https://github.com/ianmcb/beetime
 
-[60]: https://github.com/lastobelus/beeminder-anki
+[56]: https://github.com/lastobelus/beeminder-anki
 
-[61]: https://github.com/lydgate/bmndr
+[57]: https://github.com/lydgate/bmndr
 
-[62]: https://github.com/tsubery/quantifier
+[58]: https://github.com/tsubery/quantifier
 
-[63]: https://github.com/phdoerfler/beegment
+[59]: https://github.com/phdoerfler/beegment

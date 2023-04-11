@@ -2,7 +2,7 @@
 
 An unofficial wiki for Beeminder.
 
-<https://wiki.beeminder.com/>
+[https://wiki.beeminder.com/][1]
 
 ## Development
 
@@ -11,3 +11,5 @@ pnpm install
 pnpm dev
 open http://localhost:3000/
 ```
+
+[1]: https://wiki.beeminder.com/
