@@ -5,7 +5,7 @@ It's distributed under the MIT License, meaning you can use it
 [however you like][1].
 
 To contribute, click the "Edit this page" link at the bottom of any page,
-including this one! Make your edits and then click the green "Propose
+including this one. Make your edits and then click the green "Propose
 changes" button.
 
 [![Contributors][3]][2]
