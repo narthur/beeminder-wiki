@@ -102,9 +102,10 @@ P. S.: Searching for the topics [beeminder][55] or
 ### Command Line
 
 - [lydgate/bmndr][58] written in Python - by @bkam
+- [malcolmocean/beeminderjs][60] written in NodeJS - by @malcolm
+- [pinepeakdigital/buzz][141] written in go - by @narthur
 - [pjjh/bmndr][59] written in Perl (was originally a fork of lydgate/bmndr, which originally
   was a perl implementation) - by @philip
-- [malcolmocean/beeminderjs][60] written in NodeJS - by @malcolm
 
 ### Calendars, Task managers
 
@@ -487,3 +488,4 @@ NOTE: Nectar is currently not active, see [this post][115] for details. The proj
 [138]: https://forum.beeminder.com/t/a-guide-to-beeminding-myfitnesspal-calories/5113
 [139]: https://forum.beeminder.com/t/insighttimer-com-api-python-script-meditation-tracking/1751
 [140]: https://www.beeminder.com/storygraph
+[141]: https://github.com/pinepeakdigital/buzz
