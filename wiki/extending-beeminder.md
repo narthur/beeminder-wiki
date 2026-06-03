@@ -30,7 +30,6 @@ Thanks to @philip for granting permission to duplicate the content in his [API C
 *   [**FreeStyler.WS**][12] - "FreeStyler has everything you might need to style up websites you visit according to your taste."
 *   [**Hide Beeminder Dash Graphs**][13] - User style that hides the graph thumbnails on the dashboard. Made by @narthur.
 *   [**r/userstyles**][14] - Reddit community around the creation and use of user styles.
-*   [**StyleBase**][15] - "Collectino of UserCSS Styles"
 *   [**Stylish**][16] - This website [can be very slow][17].
 *   [**Stylus**][18] - "Stylus is a fork of Stylish for Chrome, also compatible with Firefox as a WebExtension"
 
@@ -133,8 +132,6 @@ Beeminder users use the API to create all sorts of things! Below is only a small
 [13]: https://userstyles.org/styles/173240/hide-beeminder-dash-graphs
 
 [14]: https://www.reddit.com/r/userstyles/
-
-[15]: https://stylebase.cc/
 
 [16]: https://userstyles.org/
 

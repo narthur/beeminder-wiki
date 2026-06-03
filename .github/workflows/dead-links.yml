@@ -1,15 +1,15 @@
-name: Deploy
+name: Dead Links
 on:
-  push:
-    branches:
-      - master
+  schedule:
+    # Weekly, Mondays at 12:00 UTC
+    - cron: "0 12 * * 1"
+  workflow_dispatch:
 permissions:
-  # peaceiris/actions-gh-pages pushes to the gh-pages branch
-  contents: write
+  contents: read
 env:
   NODE_VERSION: 22
 jobs:
-  deploy:
+  lint:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4
@@ -25,12 +25,5 @@ jobs:
           cache: "pnpm"
       - name: Install
         run: pnpm install
-      - name: Format
-        run: pnpm run format
-      - name: Build
-        run: pnpm run build
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@84c30a85c19949d7eee79c4ff27748b70285e453 # v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: wiki/.vitepress/dist
+      - name: Check for dead links
+        run: pnpm run lint
