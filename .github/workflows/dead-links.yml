@@ -1,6 +1,9 @@
-name: Push
+name: Dead Links
 on:
-  push:
+  schedule:
+    # Weekly, Mondays at 12:00 UTC
+    - cron: "0 12 * * 1"
+  workflow_dispatch:
 env:
   NODE_VERSION: 20
 jobs:
@@ -18,5 +21,5 @@ jobs:
           cache: "pnpm"
       - name: Install
         run: pnpm install
-      - name: Lint
+      - name: Check for dead links
         run: pnpm run lint
