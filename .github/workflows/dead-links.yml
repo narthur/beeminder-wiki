@@ -4,6 +4,8 @@ on:
     # Weekly, Mondays at 12:00 UTC
     - cron: "0 12 * * 1"
   workflow_dispatch:
+permissions:
+  contents: read
 env:
   NODE_VERSION: 22
 jobs:
