@@ -3,6 +3,9 @@ on:
   push:
     branches:
       - master
+permissions:
+  # peaceiris/actions-gh-pages pushes to the gh-pages branch
+  contents: write
 env:
   NODE_VERSION: 22
 jobs:
