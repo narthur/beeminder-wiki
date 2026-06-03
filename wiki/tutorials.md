@@ -28,10 +28,10 @@ Below are instructions for creating a simple custom RSS integration with Make.co
 *   If you haven't already connected Beeminder to your Make.com account, click the "Add" button next to the "Connection" field.
 *   A new dialog will appear requesting your Beeminder auth token. Copy your auth token [from this url][5] into the auth token field in Make.com.
 *   Click "Continue."
-*   If the connection was successful, addition fields should appear underneath the "Connection" field.
+*   If the connection was successful, additional fields should appear underneath the "Connection" field.
 *   Select your desired goal in the "Goal" field.
 *   In the "Value" field, enter the number 1. This will set the value of each new datapoint to 1 in Beeminder.
-*   Leave "Timestamp" and "Daystamp" epty to default to the time the datapoint is created.
+*   Leave "Timestamp" and "Daystamp" empty to default to the time the datapoint is created.
 *   Decide what you'd like to include in the "Comment" field. You can access data from previous modules in the flow by clicking in the field. For example, you could add the RSS item's Title and URL by clicking those items in the list that appears when you place your cursor in the field.
 *   Leave the "Request ID" blank.
 *   Click "OK."
