@@ -132,7 +132,7 @@ P. S.: Searching for the topics [beeminder][55] or
 
 ### Libraries
 
-- Angular/Ionic - [beeminder-capstone/Nectar-Frontend][71] - by @nectar
+- Angular/Ionic - [beeminder-capstone/Nectar-Frontend][77] - by @nectar
 - Emacs - [mbork/beeminder.el][71] - @mbork
 - Mathematica [beeminder/wolfminder][72] -by @dreev
 - NodeJS [malcolmocean/beeminderjs][60] - by @malcolm
@@ -153,8 +153,8 @@ P. S.: Searching for the topics [beeminder][55] or
 ### Web
 
 - [Beeminder Autodialer][87] - by @narthur. "The Beeminder autodialer will automatically adjust the rate on your goals based on your historical performance."
-- [Beeminder Panel][88] - by @narthur. An experimental web dashboard alernative to the Beeminder web app.
-- [Beescheduler][89] - by [@enolan][90]. "Beescheduler lets you schedule different rates for your Beeminder goals based on the days of the week. I wrote it so I could focus on one project Monday - Wednesday and different ones on Thursday and Friday. This is much better than doing a tiny amount on all of them every day." [Forum announcmenet.][91]
+- [Beeminder Panel][88] - by @narthur. An experimental web dashboard alternative to the Beeminder web app.
+- [Beescheduler][89] - by [@enolan][90]. "Beescheduler lets you schedule different rates for your Beeminder goals based on the days of the week. I wrote it so I could focus on one project Monday - Wednesday and different ones on Thursday and Friday. This is much better than doing a tiny amount on all of them every day." [Forum announcement.][91]
 - [chipmanaged/MCM-Dashboard][92] - by @mary, includes an autodial feature and
   umbrella goals feature, see [this thread][93]
 - [Altbee][94] - "an alternative web interface for Beeminder."
