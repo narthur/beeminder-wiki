@@ -1,6 +1,6 @@
 # Getting Started
 
-If you'd like to view the official documentation and guides on getting started with Beeminder, here's some helpful links from the official website:
+If you'd like to view the official documentation and guides on getting started with Beeminder, here are some helpful links from the official website:
 
 *   [**A Newbie Guide**][1] to getting started with Beeminder. (Called *newbee*, get it?)
 *   [**An Overview**][2] of what Beeminder is.
