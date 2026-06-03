@@ -245,7 +245,7 @@ NOTE: Nectar is currently not active, see [this post][115] for details. The proj
   [Integration docs][134].
 - Taskwarrior - by @openmedi :nerd_face: see
   [this thread][135] \[broken GitHub link]
-- ToDoIst - Todos - [official][46]
+- Todoist - Todos - [official][46]
 - Trello - Cards moved to or from a list or board - [official][46]
 
 ## Reading, Bookmarking
