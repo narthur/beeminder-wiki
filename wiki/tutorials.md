@@ -43,12 +43,79 @@ Below are instructions for creating a simple custom RSS integration with Make.co
 
 You're done! This flow will now check every 15 minutes for new items in the RSS feed you provided, and will post a datapoint to your Beeminder goal for each new item.
 
-## To Add
+## Beeminding a Discourse forum
 
-*   Beeminding contributions to the Beeminder forum, or any other Discourse forum
-*   Links to tutorials in the forum and blog
-*   How to beemind Wakatime
-*   How to beemind focus sessions with HeyFocus, reproducing a bare-bones version of Narthur's [focus.sh][6] script
+The [Beeminder forum][6] runs on [Discourse][7], and so do many other communities (try adding `.rss` to a Discourse URL to see whether a feed is available). Discourse publishes a per-user RSS feed of your public activity, so you can beemind your own forum participation without any custom code.
+
+Your activity feed lives at:
+
+    https://forum.beeminder.com/u/USERNAME/activity.rss
+
+Replace `forum.beeminder.com` with any Discourse site, and `USERNAME` with your username. If you'd rather only count the new topics you start, use the topics feed instead:
+
+    https://forum.beeminder.com/u/USERNAME/activity/topics.rss
+
+Plug that URL into Beeminder's [official RSS integration][3], or into the Make.com flow above if you want to customize the datapoint value or comment.
+
+## How to beemind WakaTime
+
+[WakaTime][8] tracks how much time you spend programming via open-source plugins for 90+ editors and IDEs. Beeminder has an [official WakaTime autodata integration][9], so you don't need any scripting to beemind your coding time.
+
+*   Install the [WakaTime plugin][10] for your editor.
+*   Go to [beeminder.com/wakatime][9] (or click the WakaTime logo on the Beeminder front page).
+*   Click "Connect to WakaTime," then press "Authorize" on WakaTime to grant Beeminder access to your data.
+*   Create a goal for time spent programming and code like normal — Beeminder will alert you if you're not putting in enough hours.
+
+For more detail, see the [help article][11] and the [announcement on the blog][12]. Note that WakaTime data can lag by about a day, so don't panic if today's coding hasn't shown up yet.
+
+## How to beemind focus sessions with HeyFocus
+
+[HeyFocus][13] is a Mac app that blocks distracting sites and apps during a focus session, and it can be driven by the `focus://` URL scheme. The script below starts a focus session of a given length and, when you stop it, posts the number of hours you focused to a Beeminder goal.
+
+```bash
+#!/bin/bash
+# Usage: ./focus.sh MINUTES
+# Requires HeyFocus (or another app that handles the focus:// URL scheme).
+
+BM_USER="your_username"
+BM_GOAL="your_goal"
+BM_TOKEN="your_auth_token"   # from https://www.beeminder.com/api/v1/auth_token.json
+
+MIN=$1
+START=$(date +%s)
+
+# When you press Ctrl+C, end the focus session and post the elapsed hours.
+handler() {
+  open "focus://unfocus"
+  END=$(date +%s)
+  HOURS=$(echo "($END - $START) / 3600" | bc -l)
+  echo "Focused for $HOURS hours"
+  curl -X POST \
+    "https://www.beeminder.com/api/v1/users/${BM_USER}/goals/${BM_GOAL}/datapoints.json" \
+    -d auth_token="${BM_TOKEN}" \
+    -d value="${HOURS}" \
+    -d comment="focus.sh"
+  exit
+}
+trap handler SIGINT
+
+# Start the focus session, then wait out the timer (or stop early with Ctrl+C).
+open "focus://focus?minutes=${MIN}"
+sleep "$((MIN * 60))"
+handler
+```
+
+Save it as `focus.sh`, run `chmod +x focus.sh`, and start a 25-minute session with `./focus.sh 25`. Stop early at any time with Ctrl+C and it still posts the time you actually focused.
+
+For a fuller version — pink-noise audio, posting to several goals at once, and credentials kept in an `.env` file — see Narthur's [focus.sh][14] on GitHub.
+
+## More tutorials and guides
+
+Beyond the tutorials above, the official channels are the best place to find more how-tos:
+
+*   [Beeminder Blog][15] — frequent how-tos, deep dives, and integration announcements.
+*   [Beeminder Help][11] — the official help center, organized by topic.
+*   [Beeminder Forum][6] — search the community for setups and recipes, or ask your own question.
 
 [1]: https://forum.beeminder.com/t/how-to-post-to-a-beeminder-goal-with-a-google-form/7746
 
@@ -60,4 +127,22 @@ You're done! This flow will now check every 15 minutes for new items in the RSS 
 
 [5]: https://www.beeminder.com/api/v1/auth_token.json
 
-[6]: https://github.com/narthur/focus.sh/blob/main/focus.sh
+[6]: https://forum.beeminder.com/
+
+[7]: https://www.discourse.org/
+
+[8]: https://wakatime.com/
+
+[9]: https://www.beeminder.com/wakatime
+
+[10]: https://wakatime.com/integrations
+
+[11]: https://help.beeminder.com/
+
+[12]: https://blog.beeminder.com/wakatime/
+
+[13]: https://heyfocus.com/
+
+[14]: https://github.com/narthur/focus.sh/blob/main/focus.sh
+
+[15]: https://blog.beeminder.com/
