@@ -4,31 +4,31 @@ Beeminder works by breaking down your long-term goal and turning it into concret
 
 ## Akrasia: the problem Beeminder solves
 
-[Akrasia][1] is the ancient Greek word for acting against your own better judgment — knowing what you want to do and doing something else anyway. You mean to write every day, exercise three times a week, or stop doomscrolling at midnight, but in the moment the long-term payoff feels abstract and the short-term temptation feels real. The future you who benefits from the good habit has no vote in the decision the present you is making.
+[Akrasia][1] is the ancient Greek word for acting against your own better judgment: knowing what you want to do and doing something else anyway. You mean to write every day, exercise a few times a week, or stop doomscrolling at midnight, but in the moment the long-term payoff feels abstract and the temptation feels real. The future you who benefits from the good habit has no vote in the decision the present you is making.
 
-Almost everyone has goals they keep failing at this way, and the failure usually isn't about not knowing what to do or not wanting it badly enough. It's that the costs and rewards are spread out over time in a way that makes the wrong choice locally rational. Beeminder is built around the premise that this is a structural problem, not a character flaw, and that the fix is to change the structure rather than to try harder.
+Almost everyone has goals they keep failing at this way, and the failure usually isn't about not knowing what to do or not wanting it badly enough. It's that the costs and rewards are spread out over time in a way that makes the wrong choice locally rational. Beeminder is built on the premise that this is a structural problem rather than a character flaw, and that the fix is to change the structure instead of trying harder.
 
 ## A commitment device
 
-The tool Beeminder reaches for is a [commitment device][2]: a way of voluntarily restricting your own future choices so that the version of you who shows up tomorrow can't easily weasel out. The classic example is Odysseus tying himself to the mast — binding his future self in advance because he knew willpower alone wouldn't survive the song of the sirens.
+The tool Beeminder reaches for is a [commitment device][2]: a way of voluntarily restricting your own future choices so the version of you who shows up tomorrow can't easily weasel out. The classic example is Odysseus tying himself to the mast. He bound his future self in advance because he knew willpower alone wouldn't survive the song of the sirens.
 
-Beeminder's mast is a pledge of real money. You commit to a measurable rate of progress, and if you go off track, Beeminder charges you. That turns a vague, deferred consequence ("someday I'll regret not learning the guitar") into a sharp, immediate one ("I owe $5 today"). The point isn't the money itself — it's that a concrete cost *now* is something your present self actually responds to, in a way that distant consequences never quite manage.
+Beeminder's mast is a pledge of real money. You commit to a measurable rate of progress, and if you go off track, Beeminder charges you. That turns a vague, deferred consequence ("someday I'll regret not learning the guitar") into a sharp, immediate one ("I owe $5 today"). The point isn't the money itself. It's that a concrete cost *now* is something your present self actually responds to, in a way distant consequences never quite manage.
 
 ## Why money
 
-The pledge works because losing money stings more than the equivalent gain would please — a quirk of human psychology called [loss aversion][3]. A small amount on the line, payable today, can outweigh a much larger but distant benefit, which is exactly the leverage you need to pull a long-term goal into the present.
+The pledge works because losing money stings more than the same gain would please, a quirk of human psychology called [loss aversion][3]. A small amount on the line, payable today, can outweigh a much larger but distant benefit, which is exactly the leverage you need to pull a long-term goal into the present.
 
-It also escalates. After each derailment the pledge climbs a schedule ($0 → $5 → $10 → $30 → …), so if a given amount turns out not to be enough to change your behavior, the next one will be. The aim is to find the smallest stake that actually works for you. For the full mechanics, see [how the money works][4]. Worth stressing: Beeminder *wants* you to keep your money. The charge is a backstop that gives the commitment teeth, not a revenue plan or a punishment for being human.
+It also escalates. After each derailment the pledge climbs a schedule ($0 → $5 → $10 → $30 → …), so if one amount isn't enough to change your behavior, the next one will be. The aim is to find the smallest stake that actually works for you. For the full mechanics, see [how the money works][4]. And Beeminder *wants* you to keep your money: the charge is a backstop that gives the commitment its teeth, not a way for the company to make money off you.
 
 ## The akrasia horizon
 
-A commitment device is only as good as your inability to wriggle out of it at the last second. So when you change a Beeminder goal — dialing down the rate, say — the change doesn't take effect for about a week. This delay is the [akrasia horizon][5]. You can always make your goal *easier*, but never starting now; the change lands a week out, on the far side of the temptation you're feeling today.
+A commitment device is only as good as your inability to wriggle out of it at the last second. So when you change a Beeminder goal, say by dialing the rate down, the change doesn't take effect for about a week. This delay is the [akrasia horizon][5]. You can always make a goal *easier*, just never starting now; the change lands a week out, on the far side of the temptation you're feeling today.
 
-This is what keeps the bright red line honest. In the moment of weakness, the only lever you have is to do the thing or pay the pledge. Loosening the goal is a decision your calmer, week-ago self gets to make, not your akratic present self.
+This is what keeps the bright red line honest. In a moment of weakness, the only lever you have is to do the thing or pay the pledge. Loosening the goal is a decision your calmer, week-ago self gets to make, not your akratic present self.
 
 ## The data is the point
 
-Beeminder is also a quantified-self tool. To enforce a commitment it has to measure your progress, and that measurement turns out to be valuable on its own. Watching the datapoints accumulate against your bright red line tells you what's actually happening, as opposed to what you vaguely assume is happening, and that feedback often changes behavior before any money is ever at risk. See [Beeminder as a self-tracking tool][6] for more on this angle.
+Beeminder is also a quantified-self tool. To enforce a commitment it has to measure your progress, and that measurement turns out to be useful on its own. Watching the datapoints pile up against your bright red line shows you what's actually happening instead of what you vaguely assume is happening, and that feedback often changes behavior before any money is at risk. See [Beeminder as a self-tracking tool][6] for more on this angle.
 
 ## Further reading
 
