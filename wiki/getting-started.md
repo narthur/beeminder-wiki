@@ -25,8 +25,8 @@ Beeminder?][1] and come back here when you're ready to commit to something.
     track you pledge **$5**, and each later derailment bumps it up a schedule
     ($0 → $5 → $10 → $30 → …) until the sting is enough to change your behavior.
     See [how the money works][5] for the full schedule and how to cap it.
-6.  **Create the goal.** That's it: you now have a graph with a bright red line
-    and a week to start feeding it data.
+6.  **Create the goal.** That's it: you now have a graph with a bright red line,
+    ready for its first datapoints.
 
 ## Choosing a goal type
 
@@ -59,12 +59,21 @@ to make a goal stick.
 
 ## Your first week
 
-Beeminder eases you in. A brand-new goal can't make you derail for about the
-first week, which gives you time to build a little momentum (and to fix the rate
-if you set it too aggressively). This grace period is the same [akrasia
-horizon][9] that stops you from weaseling out of a goal later: changes that make
-a goal *easier* only take effect about a week out, never right now. So set your
-rate thoughtfully at the start, while it's still easy to adjust.
+A brand-new goal *can* derail in its first week, so it's worth easing yourself
+in. When you create a goal, Beeminder gives you two ways to take the early sting
+off:
+
+*   **Start with safety buffer.** Give the goal a few days of initial leeway so
+    the bright red line doesn't catch up to you while you're finding your feet.
+*   **Hold the pledge at $0 for the first week.** Tell Beeminder to keep the goal
+    at a $0 pledge while you settle on your stakes, so an early stumble costs
+    nothing.
+
+Either way, set your rate thoughtfully at the start. The same [akrasia
+horizon][9] that stops you from weaseling out later also applies to changes you
+make now: dialing a goal *easier* only takes effect about a week out, never
+right now. It's far easier to start gentle than to loosen an aggressive goal
+after the fact.
 
 ## What happens on an eep day
 
