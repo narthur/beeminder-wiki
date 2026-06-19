@@ -15,8 +15,8 @@ Beeminder?][1] and come back here when you're ready to commit to something.
     more than 30 minutes of social media." Save the life-changing mega-goals for
     later; you're learning how the tool feels.
 3.  **Choose a goal type.** Beeminder's [goal gallery][3] offers a handful of
-    shapes (see [Choosing a goal type][4] below). When in
-    doubt, pick **Do More** — it's the workhorse and fits most starter goals.
+    shapes (see [Choosing a goal type][4] below). When in doubt, pick **Do
+    More**. It's the workhorse and fits most starter goals.
 4.  **Set your rate.** Tell Beeminder how much you'll do and how often, like "1
     per day" or "10 per week." This becomes your [bright red line][1]. Start
     gentler than you think you should; you can always ramp up later, and an
@@ -25,7 +25,7 @@ Beeminder?][1] and come back here when you're ready to commit to something.
     track you pledge **$5**, and each later derailment bumps it up a schedule
     ($0 → $5 → $10 → $30 → …) until the sting is enough to change your behavior.
     See [how the money works][5] for the full schedule and how to cap it.
-6.  **Create the goal.** That's it — you now have a graph with a bright red line
+6.  **Create the goal.** That's it: you now have a graph with a bright red line
     and a week to start feeding it data.
 
 ## Choosing a goal type
@@ -33,14 +33,14 @@ Beeminder?][1] and come back here when you're ready to commit to something.
 You don't need to memorize these; the [gallery][3] explains each as you go. The
 two broad shapes are:
 
-*   **Doing more of something** — writing, exercising, studying, shipping code.
+*   **Doing more of something.** Writing, exercising, studying, shipping code.
     Your datapoints add up and you commit to a minimum rate. **Do More** and
     **Odometer** goals work this way.
-*   **Doing less of something** — screen time, calories, cigarettes, takeout.
-    You commit to staying *under* a ceiling. **Whittle Down** and **Do Less**
-    style goals handle these.
+*   **Doing less of something.** Screen time, calories, cigarettes, takeout. You
+    commit to staying *under* a ceiling. **Whittle Down** and **Do Less** style
+    goals handle these.
 
-If your first pick turns out wrong, that's fine — make a new goal. Spinning up
+If your first pick turns out wrong, that's fine: make a new goal. Spinning up
 goals is cheap and part of learning what's worth beeminding.
 
 ## Feeding it data
@@ -50,7 +50,7 @@ A goal is only as good as the data you put into it. You have two options:
 *   **Enter datapoints by hand.** Type the number into the goal page, the mobile
     app, or even by email or [Apple Watch][6]. Quick and works for anything.
 *   **Connect an integration.** Beeminder pulls data automatically from dozens of
-    services — fitness trackers, time loggers, to-do apps, and more. Wiring one
+    services: fitness trackers, time loggers, to-do apps, and more. Wiring one
     up means you never have to remember to log. See [Integrations][7] for the
     full list, and [Use Cases][8] for ideas on what to track with them.
 
@@ -60,26 +60,25 @@ to make a goal stick.
 ## Your first week
 
 Beeminder eases you in. A brand-new goal can't make you derail for about the
-first week, which gives you time to build a little momentum — and to fix the
-rate if you set it too aggressively. This grace period is the same [akrasia
+first week, which gives you time to build a little momentum (and to fix the rate
+if you set it too aggressively). This grace period is the same [akrasia
 horizon][9] that stops you from weaseling out of a goal later: changes that make
 a goal *easier* only take effect about a week out, never right now. So set your
 rate thoughtfully at the start, while it's still easy to adjust.
 
 ## What happens on an eep day
 
-Eventually you'll hit an **eep day** — a day when you have to do the thing
-(or enter data) or you'll cross your bright red line and derail. When that
-happens:
+Eventually you'll hit an **eep day**: a day when you have to do the thing (or
+enter data) or you'll cross your bright red line and derail. When that happens:
 
 *   **Do the thing and report it.** Get back on the right side of the line and
     you're safe until the next eep day.
 *   **If you genuinely can't,** you derail and your pledge is charged. Beeminder
-    *wants* you to keep your money — the charge is a backstop, not the goal. If a
+    *wants* you to keep your money; the charge is a backstop, not the goal. If a
     derailment was due to a bug or something truly outside the spirit of your
     commitment, you can [call a "non-legit" derailment][10].
 
-Derailing isn't failure, exactly — it's information. It usually means your rate
+Derailing isn't failure, exactly. It's information. It usually means your rate
 was too steep or the goal wasn't quite right, both of which you can fix for next
 time.
 
@@ -98,10 +97,10 @@ starting points:
 
 ## Learn more
 
-*   [What Is Beeminder?][1] — the concepts and vocabulary behind the line
-*   [The Beeminder Philosophy][16] — why putting money on the line works
-*   [Use Cases][8] — ideas for what to beemind
-*   [Integrations][7] — connect the apps you already use
+*   [What Is Beeminder?][1] covers the concepts and vocabulary behind the line.
+*   [The Beeminder Philosophy][16] explains why putting money on the line works.
+*   [Use Cases][8] has ideas for what to beemind.
+*   [Integrations][7] connects the apps you already use.
 
 [1]: what-is-beeminder.md
 
