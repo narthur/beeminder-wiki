@@ -87,27 +87,31 @@ enter data) or you'll cross your bright red line and derail. When that happens:
     derailment was due to a bug or something truly outside the spirit of your
     commitment, you can [call a "non-legit" derailment][10].
 
-Derailing isn't failure, exactly. It's information. It usually means your rate
-was too steep or the goal wasn't quite right, both of which you can fix for next
-time.
+Derailing isn't failing. Beeminder argues it's [*nailing it*][11]: paying up
+when you go off the line is a legitimate, built-in part of the service, not
+proof you blew it. A derailment doesn't necessarily mean your goal was wrong,
+either. Often it just means the stakes haven't climbed high enough to move you
+yet, which is exactly what the escalating pledge is there to fix. If you keep
+derailing on the same goal it's worth revisiting your rate, but a derailment on
+its own is the system doing its job.
 
 ## Official guides
 
 When you want the canonical word from Beeminder itself, these are the best
 starting points:
 
-*   [**A Newbie Guide**][11] to getting started with Beeminder. (Called *newbee*,
+*   [**A Newbie Guide**][12] to getting started with Beeminder. (Called *newbee*,
     get it?)
-*   [**An Overview**][12] of what Beeminder is.
-*   [**A Glossary**][13] of terms often used in Beeminder discussions and docs.
-*   [**An FAQ**][14] which gets into the technical details of specific goals,
+*   [**An Overview**][13] of what Beeminder is.
+*   [**A Glossary**][14] of terms often used in Beeminder discussions and docs.
+*   [**An FAQ**][15] which gets into the technical details of specific goals,
     derailments, etc.
-*   [**A Help Section**][15] with even more information and how-to guides.
+*   [**A Help Section**][16] with even more information and how-to guides.
 
 ## Learn more
 
 *   [What Is Beeminder?][1] covers the concepts and vocabulary behind the line.
-*   [The Beeminder Philosophy][16] explains why putting money on the line works.
+*   [The Beeminder Philosophy][17] explains why putting money on the line works.
 *   [Use Cases][8] has ideas for what to beemind.
 *   [Integrations][7] connects the apps you already use.
 
@@ -131,14 +135,16 @@ starting points:
 
 [10]: https://help.beeminder.com/article/97-legitimate-check-in-derailments
 
-[11]: https://blog.beeminder.com/newbees/
+[11]: https://blog.beeminder.com/nailingit/
 
-[12]: https://www.beeminder.com/overview
+[12]: https://blog.beeminder.com/newbees/
 
-[13]: https://blog.beeminder.com/glossary/
+[13]: https://www.beeminder.com/overview
 
-[14]: https://www.beeminder.com/faq
+[14]: https://blog.beeminder.com/glossary/
 
-[15]: https://help.beeminder.com/
+[15]: https://www.beeminder.com/faq
 
-[16]: philosophy.md
+[16]: https://help.beeminder.com/
+
+[17]: philosophy.md
