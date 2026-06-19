@@ -68,7 +68,7 @@ rate thoughtfully at the start, while it's still easy to adjust.
 
 ## What happens on an eep day
 
-Sooner or later you'll hit an **eep day** — a day when you have to do the thing
+Eventually you'll hit an **eep day** — a day when you have to do the thing
 (or enter data) or you'll cross your bright red line and derail. When that
 happens:
 
