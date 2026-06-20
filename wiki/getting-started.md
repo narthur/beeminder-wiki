@@ -88,8 +88,8 @@ enter data) or you'll cross your bright red line and derail. When that happens:
     commitment, you can [call a "non-legit" derailment][10].
 
 Derailing isn't failing. Beeminder argues it's [*nailing it*][11]: paying up
-when you go off the line is a legitimate, built-in part of the service, not
-proof you blew it. A derailment doesn't necessarily mean your goal was wrong,
+when you derail is a legitimate, built-in part of the service, not proof you
+blew it. A derailment doesn't necessarily mean your goal was wrong,
 either. Often it just means the stakes haven't climbed high enough to move you
 yet, which is exactly what the escalating pledge is there to fix. If you keep
 derailing on the same goal it's worth revisiting your rate, but a derailment on
