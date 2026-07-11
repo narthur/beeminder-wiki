@@ -82,6 +82,10 @@ BM_GOAL="your_goal"
 BM_TOKEN="your_auth_token"   # from https://www.beeminder.com/api/v1/auth_token.json
 
 MIN=$1
+if ! [[ "$MIN" =~ ^[0-9]+$ ]]; then
+  echo "Usage: ./focus.sh MINUTES" >&2
+  exit 1
+fi
 START=$(date +%s)
 
 # When you press Ctrl+C, end the focus session and post the elapsed hours.
